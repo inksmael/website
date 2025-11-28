@@ -99,6 +99,36 @@ html, body {
     cursor: pointer;
 }
 
+.detail-container {
+    text-align: center;
+}
+
+.detail-image {
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 1.5rem;
+}
+
+.detail-nav {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
+
+.detail-nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.detail-nav a:hover {
+    color: #000;
+}
+
+.detail-nav .disabled {
+    color: #aaa;
+}
+
 /* ------------------------------------------------------------
    Responsive adjustments
 ------------------------------------------------------------ */
