@@ -1,0 +1,139 @@
+/* ------------------------------------------------------------
+   Global reset
+------------------------------------------------------------ */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ------------------------------------------------------------
+   Base typography and layout
+------------------------------------------------------------ */
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fafafa;
+    color: #222;
+    line-height: 1.5;
+}
+
+/* Max-width container */
+.container {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+/* ------------------------------------------------------------
+   Header styling
+------------------------------------------------------------ */
+.site-header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #ddd;
+    padding: 1rem 0;
+    margin-bottom: 1.5rem;
+}
+
+/* Flex column to stack titles vertically */
+.site-header .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;     /* Center "Notas" */
+    text-align: center;
+}
+
+/* Top title "Inksmael" (left aligned) */
+.site-top-title {
+    align-self: flex-start;  /* Left align inside centered container */
+    display: block;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: #222;
+    margin-bottom: 0.4rem;
+}
+
+.site-top-title:hover {
+    color: #000;
+}
+
+/* Main title "Notas" */
+.site-header h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* ------------------------------------------------------------
+   Notes thumbnails grid
+------------------------------------------------------------ */
+.notes-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* 3 thumbnails per row, grouped and centered */
+.notes-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 250px);
+    gap: 1.2rem;
+
+    justify-content: center; /* Center the whole thumbnail block */
+    justify-items: center;   /* Center thumbnails inside each cell */
+
+    width: fit-content;      /* Grid width shrinks to content */
+    max-width: 100%;         /* Avoid overflow */
+    margin: 0 auto;
+}
+
+/* Thumbnail image styling */
+.note-thumb img {
+    width: 250px;
+    height: auto;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+    cursor: pointer;
+}
+
+/* ------------------------------------------------------------
+   Responsive adjustments
+------------------------------------------------------------ */
+@media (max-width: 900px) {
+    .notes-grid {
+        grid-template-columns: repeat(2, 250px);
+    }
+
+    .site-header h1 {
+        font-size: 1.8rem;
+    }
+}
+
+@media (max-width: 600px) {
+    .notes-grid {
+        grid-template-columns: repeat(1, 250px);
+    }
+
+    .site-top-title {
+        font-size: 1.4rem;
+    }
+
+    .site-header h1 {
+        font-size: 1.6rem;
+    }
+}
+
+/* ------------------------------------------------------------
+   Footer styling
+------------------------------------------------------------ */
+.site-footer {
+    margin-top: 2rem;
+    padding: 1rem 0;
+    text-align: center;
+    color: #555;
+    font-size: 0.9rem;
+    border-top: 1px solid #ddd;
+}
