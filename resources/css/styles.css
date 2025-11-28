@@ -25,6 +25,11 @@ html, body {
     padding: 1rem;
 }
 
+.container h1 {
+    text-align: center;
+    width: 100%;
+}
+
 /* ------------------------------------------------------------
    Header styling
 ------------------------------------------------------------ */
@@ -108,6 +113,16 @@ html, body {
     width: 100%;
     height: auto;
     margin-bottom: 1.5rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+    border-radius: 6px;
+}
+
+.detail-caption {
+    text-align: center;
+    font-size: 1.1rem;
+    color: #444;
+    margin-top: 0.8rem;
+    margin-bottom: 1.2rem;
 }
 
 .detail-nav {
