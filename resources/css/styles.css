@@ -48,15 +48,20 @@ html, body {
     text-align: center;
 }
 
-/* Top title "Inksmael" (left aligned) */
+/* Top title logo (left aligned) */
 .site-top-title {
-    align-self: flex-start;  /* Left align inside centered container */
-    display: block;
-    font-size: 1.6rem;
-    font-weight: bold;
+    align-self: flex-start;
+    display: inline-flex;
+    align-items: center;
     text-decoration: none;
-    color: #222;
     margin-bottom: 0.4rem;
+}
+
+/* Logo inside the header */
+.site-top-title .site-logo {
+    height: 48px;
+    width: auto;
+    display: block;
 }
 
 .site-top-title:hover {
@@ -70,6 +75,24 @@ html, body {
     text-align: center;
     width: 100%;
     margin: 0 auto;
+}
+
+.site-title,
+.header-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-logo,
+.header-logo {
+    width: 140px;
+    height: auto;
+}
+
+.site-title-link {
+    display: inline-flex;
+    align-items: center;
 }
 
 /* ------------------------------------------------------------

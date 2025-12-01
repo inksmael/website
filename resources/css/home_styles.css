@@ -30,3 +30,21 @@ a {
 a:hover {
     color: #000;
 }
+
+.site-title,
+.header-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-logo,
+.header-logo {
+    width: 200px;
+    height: auto;
+}
+
+.site-title-link {
+    display: inline-flex;
+    align-items: center;
+}
