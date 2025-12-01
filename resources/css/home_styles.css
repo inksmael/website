@@ -40,7 +40,7 @@ a:hover {
 
 .site-logo,
 .header-logo {
-    width: 200px;
+    width: 350px;
     height: auto;
 }
 
@@ -48,3 +48,24 @@ a:hover {
     display: inline-flex;
     align-items: center;
 }
+
+/* Notes section logo (home page) */
+.notes-logo {
+    width: 200px;
+    height: auto;
+    display: block;
+    transition: transform 0.25s ease;
+}
+
+.notes-logo-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+
+/* Efecto hover: rotación ligera */
+.notes-logo-link:hover .notes-logo {
+    transform: rotate(-5deg);
+}
+
