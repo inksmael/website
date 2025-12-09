@@ -106,8 +106,7 @@ html, body {
 }
 
 .notes-header-logo {
-    display: block;
-    width: 250px;
+    width: clamp(150px, 30vw, 300px);
     height: auto;
 }
 
@@ -120,27 +119,18 @@ html, body {
     align-items: center;
 }
 
-/* 3 thumbnails per row, grouped and centered */
 .notes-grid {
     display: grid;
-    grid-template-columns: repeat(3, 250px);
-    gap: 1.2rem;
-
-    justify-content: center; /* Center the whole thumbnail block */
-    justify-items: center;   /* Center thumbnails inside each cell */
-
-    width: fit-content;      /* Grid width shrinks to content */
-    max-width: 100%;         /* Avoid overflow */
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px !important;
+    width: 100%;
+    max-width: 900px;
     margin: 0 auto;
 }
 
-/* Thumbnail image styling */
 .note-thumb img {
-    width: 250px;
+    width: 100%;
     height: auto;
-    border-radius: 6px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.15);
-    cursor: pointer;
 }
 
 .detail-container {
@@ -186,27 +176,10 @@ html, body {
 /* ------------------------------------------------------------
    Responsive adjustments
 ------------------------------------------------------------ */
-@media (max-width: 900px) {
-    .notes-grid {
-        grid-template-columns: repeat(2, 250px);
-    }
-
-    .site-header h1 {
-        font-size: 1.8rem;
-    }
-}
-
+@media (max-width: 900px),
 @media (max-width: 600px) {
     .notes-grid {
-        grid-template-columns: repeat(1, 250px);
-    }
-
-    .site-top-title {
-        font-size: 1.4rem;
-    }
-
-    .site-header h1 {
-        font-size: 1.6rem;
+        grid-template-columns: repeat(3, 1fr) !important;
     }
 }
 
