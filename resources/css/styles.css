@@ -173,6 +173,44 @@ html, body {
     color: #aaa;
 }
 
+.detail-image-nav {
+    position: relative;
+    display: inline-block; /* keeps overlay sized to the image */
+    max-width: 100%;
+}
+
+.detail-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.img-nav {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 50%;
+    z-index: 2;
+    background: transparent;
+    cursor: pointer;
+}
+
+/* Left half: "siguiente" (next_link) */
+.img-nav-left {
+    left: 0;
+}
+
+/* Right half: "anterior" (prev_link) */
+.img-nav-right {
+    right: 0;
+}
+
+.img-nav.disabled {
+    cursor: default;
+    pointer-events: none;
+}
+
+
 /* ------------------------------------------------------------
    Responsive adjustments
 ------------------------------------------------------------ */
