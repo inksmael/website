@@ -53,8 +53,8 @@ a {
 }
 
 .brand__subtitle {
-    margin: 0.5rem 0 0;
-    color: #6b6b6b;
+    margin: 0;
+    color: #0c0f0a;
 }
 
 .menu-toggle {
@@ -99,11 +99,16 @@ a {
     text-align: center;
 }
 
+.copyright {
+    font-size: 1.1rem;
+}
+
 .social-links {
     display: flex;
     justify-content: center;
     gap: 1rem;
     flex-wrap: wrap;
+    margin-top: 0.25rem;
 }
 
 /* ------------------------------------------------------------
