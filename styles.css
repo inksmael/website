@@ -120,6 +120,12 @@ a {
     align-items: center;
 }
 
+.notes-intro {
+    max-width: 600px;
+    margin: 0 auto 2rem auto;
+    text-align: center;
+}
+
 .notes-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -142,16 +148,23 @@ a {
     max-width: 500px;
     width: 100%;
     height: auto;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
     box-shadow: 0 2px 4px rgba(0,0,0,0.15);
     border-radius: 6px;
 }
 
 .detail-caption {
     text-align: center;
-    font-size: 1.1rem;
-    color: #444;
-    margin: 0;
+}
+
+.detail-date {
+    font-size: 0.8rem;
+    color: #888;
+    margin-bottom: 0.25rem;
+}
+
+.detail-text {
+    font-size: 1rem;
 }
 
 .detail-nav {
