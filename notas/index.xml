@@ -2,752 +2,780 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notas on Inksmael</title>
-    <link>https://inksmael.com/notas/</link>
+    <link>http://localhost:1313/notas/</link>
     <description>Recent content in Notas on Inksmael</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://inksmael.com/notas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/notas/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nota del 17/04/2026</title>
-      <link>https://inksmael.com/notas/gabby-suenigata/</link>
+      <title>Foquita feliz</title>
+      <link>http://localhost:1313/notas/foquita-feliz/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notas/foquita-feliz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mamá y bebé Box (La cada de muñecas de Gabby)</title>
+      <link>http://localhost:1313/notas/gabby-mama-y-bebe-box/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notas/gabby-mama-y-bebe-box/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sueñigata (La cada de muñecas de Gabby)</title>
+      <link>http://localhost:1313/notas/gabby-suenigata/</link>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/gabby-suenigata/</guid>
+      <guid>http://localhost:1313/notas/gabby-suenigata/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 16/04/2026</title>
-      <link>https://inksmael.com/notas/gabby-dj-capucha/</link>
+      <title>DJ Capucha (La cada de muñecas de Gabby)</title>
+      <link>http://localhost:1313/notas/gabby-dj-capucha/</link>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/gabby-dj-capucha/</guid>
+      <guid>http://localhost:1313/notas/gabby-dj-capucha/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 15/04/2026</title>
-      <link>https://inksmael.com/notas/gabby-carlita/</link>
+      <title>Carlita (La cada de muñecas de Gabby)</title>
+      <link>http://localhost:1313/notas/gabby-carlita/</link>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/gabby-carlita/</guid>
+      <guid>http://localhost:1313/notas/gabby-carlita/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 14/04/2026</title>
-      <link>https://inksmael.com/notas/gabby-pandi-patitas/</link>
+      <title>Pandy Patitas (La cada de muñecas de Gabby)</title>
+      <link>http://localhost:1313/notas/gabby-pandi-patitas/</link>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/gabby-pandi-patitas/</guid>
+      <guid>http://localhost:1313/notas/gabby-pandi-patitas/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 13/04/2026</title>
-      <link>https://inksmael.com/notas/gabby-muffin/</link>
+      <title>Muffin (La cada de muñecas de Gabby)</title>
+      <link>http://localhost:1313/notas/gabby-muffin/</link>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/gabby-muffin/</guid>
+      <guid>http://localhost:1313/notas/gabby-muffin/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 10/04/2026</title>
-      <link>https://inksmael.com/notas/gabby-yogato/</link>
+      <title>Yogato (La cada de muñecas de Gabby)</title>
+      <link>http://localhost:1313/notas/gabby-yogato/</link>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/gabby-yogato/</guid>
+      <guid>http://localhost:1313/notas/gabby-yogato/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 30/03/2026</title>
-      <link>https://inksmael.com/notas/lord-perro-salchicha/</link>
+      <title>Lord Perro Salchicha</title>
+      <link>http://localhost:1313/notas/lord-perro-salchicha/</link>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/lord-perro-salchicha/</guid>
+      <guid>http://localhost:1313/notas/lord-perro-salchicha/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 25/03/2026</title>
-      <link>https://inksmael.com/notas/gabby-siregata/</link>
+      <title>Siregata (La cada de muñecas de Gabby)</title>
+      <link>http://localhost:1313/notas/gabby-siregata/</link>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/gabby-siregata/</guid>
+      <guid>http://localhost:1313/notas/gabby-siregata/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 24/03/2026</title>
-      <link>https://inksmael.com/notas/gabby-gabby/</link>
+      <title>Gabby (La cada de muñecas de Gabby)</title>
+      <link>http://localhost:1313/notas/gabby-gabby/</link>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/gabby-gabby/</guid>
+      <guid>http://localhost:1313/notas/gabby-gabby/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 23/03/2026</title>
-      <link>https://inksmael.com/notas/hoopers-titus-gusano/</link>
+      <title>Titus (Hoopers)</title>
+      <link>http://localhost:1313/notas/hoopers-titus-gusano/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/hoopers-titus-gusano/</guid>
+      <guid>http://localhost:1313/notas/hoopers-titus-gusano/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 20/03/2026</title>
-      <link>https://inksmael.com/notas/hoopers-diane-tiburon/</link>
+      <title>Diane (Hoopers)</title>
+      <link>http://localhost:1313/notas/hoopers-diane-tiburon/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/hoopers-diane-tiburon/</guid>
+      <guid>http://localhost:1313/notas/hoopers-diane-tiburon/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 19/03/2026</title>
-      <link>https://inksmael.com/notas/hoopers-loaf/</link>
+      <title>Loaf (Hoopers)</title>
+      <link>http://localhost:1313/notas/hoopers-loaf/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/hoopers-loaf/</guid>
+      <guid>http://localhost:1313/notas/hoopers-loaf/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 18/03/2026</title>
-      <link>https://inksmael.com/notas/hoopers-titus-robot/</link>
+      <title>Titus robot (Hoopers)</title>
+      <link>http://localhost:1313/notas/hoopers-titus-robot/</link>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/hoopers-titus-robot/</guid>
+      <guid>http://localhost:1313/notas/hoopers-titus-robot/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 17/03/2026</title>
-      <link>https://inksmael.com/notas/hoopers-alcalde-jerry/</link>
+      <title>Alcalde Jerry (Hoopers)</title>
+      <link>http://localhost:1313/notas/hoopers-alcalde-jerry/</link>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/hoopers-alcalde-jerry/</guid>
+      <guid>http://localhost:1313/notas/hoopers-alcalde-jerry/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 16/03/2026</title>
-      <link>https://inksmael.com/notas/hoopers-ellen/</link>
+      <title>Ellen (Hoopers)</title>
+      <link>http://localhost:1313/notas/hoopers-ellen/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/hoopers-ellen/</guid>
+      <guid>http://localhost:1313/notas/hoopers-ellen/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 13/03/2026</title>
-      <link>https://inksmael.com/notas/hoopers-mabel-tanaka/</link>
+      <title>Mabel Tanaka (Hoopers)</title>
+      <link>http://localhost:1313/notas/hoopers-mabel-tanaka/</link>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/hoopers-mabel-tanaka/</guid>
+      <guid>http://localhost:1313/notas/hoopers-mabel-tanaka/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 12/03/2026</title>
-      <link>https://inksmael.com/notas/hoopers-tom/</link>
+      <title>Tom (Hoopers)</title>
+      <link>http://localhost:1313/notas/hoopers-tom/</link>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/hoopers-tom/</guid>
+      <guid>http://localhost:1313/notas/hoopers-tom/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 11/03/2026</title>
-      <link>https://inksmael.com/notas/hoopers-rey-george/</link>
+      <title>Rey George (Hoopers)</title>
+      <link>http://localhost:1313/notas/hoopers-rey-george/</link>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/hoopers-rey-george/</guid>
+      <guid>http://localhost:1313/notas/hoopers-rey-george/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 10/03/2026</title>
-      <link>https://inksmael.com/notas/hoopers-mabel-castor/</link>
+      <title>Mabel castora (Hoopers)</title>
+      <link>http://localhost:1313/notas/hoopers-mabel-castor/</link>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/hoopers-mabel-castor/</guid>
+      <guid>http://localhost:1313/notas/hoopers-mabel-castor/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 09/03/2026</title>
-      <link>https://inksmael.com/notas/enredados-flynn-rider/</link>
+      <title>Benedic (Los Bridgerton)</title>
+      <link>http://localhost:1313/notas/bridgerton-benedic/</link>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/enredados-flynn-rider/</guid>
+      <guid>http://localhost:1313/notas/bridgerton-benedic/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 06/03/2026</title>
-      <link>https://inksmael.com/notas/enredados-rapunzel/</link>
+      <title>Flynn Rider (Enredados)</title>
+      <link>http://localhost:1313/notas/enredados-flynn-rider/</link>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notas/enredados-flynn-rider/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rapunzel (Enredados)</title>
+      <link>http://localhost:1313/notas/enredados-rapunzel/</link>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/enredados-rapunzel/</guid>
+      <guid>http://localhost:1313/notas/enredados-rapunzel/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 05/03/2026</title>
-      <link>https://inksmael.com/notas/zootropolis-vicealcaldesa-bellwether/</link>
+      <title>Vicealcaldesa Bellwether (Zootropolis)</title>
+      <link>http://localhost:1313/notas/zootropolis-vicealcaldesa-bellwether/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/zootropolis-vicealcaldesa-bellwether/</guid>
+      <guid>http://localhost:1313/notas/zootropolis-vicealcaldesa-bellwether/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 04/03/2026</title>
-      <link>https://inksmael.com/notas/2026-03-04/</link>
+      <link>http://localhost:1313/notas/2026-03-04/</link>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-03-04/</guid>
+      <guid>http://localhost:1313/notas/2026-03-04/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 03/03/2026</title>
-      <link>https://inksmael.com/notas/2026-03-03/</link>
+      <link>http://localhost:1313/notas/2026-03-03/</link>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-03-03/</guid>
+      <guid>http://localhost:1313/notas/2026-03-03/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 02/03/2026</title>
-      <link>https://inksmael.com/notas/2026-03-02/</link>
+      <link>http://localhost:1313/notas/2026-03-02/</link>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-03-02/</guid>
+      <guid>http://localhost:1313/notas/2026-03-02/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 27/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-27/</link>
+      <link>http://localhost:1313/notas/2026-02-27/</link>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-27/</guid>
+      <guid>http://localhost:1313/notas/2026-02-27/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 26/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-26/</link>
+      <link>http://localhost:1313/notas/2026-02-26/</link>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-26/</guid>
+      <guid>http://localhost:1313/notas/2026-02-26/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 25/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-25/</link>
+      <link>http://localhost:1313/notas/2026-02-25/</link>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-25/</guid>
+      <guid>http://localhost:1313/notas/2026-02-25/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 24/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-24/</link>
+      <link>http://localhost:1313/notas/2026-02-24/</link>
       <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-24/</guid>
+      <guid>http://localhost:1313/notas/2026-02-24/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reina Carlota (Los Bridgerton)</title>
+      <link>http://localhost:1313/notas/bridgerton-reina-carlota/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notas/bridgerton-reina-carlota/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 23/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-23/</link>
+      <link>http://localhost:1313/notas/2026-02-23/</link>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-23/</guid>
+      <guid>http://localhost:1313/notas/2026-02-23/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 20/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-20/</link>
+      <link>http://localhost:1313/notas/2026-02-20/</link>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-20/</guid>
+      <guid>http://localhost:1313/notas/2026-02-20/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 19/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-19/</link>
+      <link>http://localhost:1313/notas/2026-02-19/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-19/</guid>
+      <guid>http://localhost:1313/notas/2026-02-19/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 18/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-18/</link>
+      <link>http://localhost:1313/notas/2026-02-18/</link>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-18/</guid>
+      <guid>http://localhost:1313/notas/2026-02-18/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 17/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-17/</link>
+      <link>http://localhost:1313/notas/2026-02-17/</link>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-17/</guid>
+      <guid>http://localhost:1313/notas/2026-02-17/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 16/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-16/</link>
+      <link>http://localhost:1313/notas/2026-02-16/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-16/</guid>
+      <guid>http://localhost:1313/notas/2026-02-16/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 13/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-13/</link>
+      <link>http://localhost:1313/notas/2026-02-13/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-13/</guid>
+      <guid>http://localhost:1313/notas/2026-02-13/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 12/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-12/</link>
+      <link>http://localhost:1313/notas/2026-02-12/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-12/</guid>
+      <guid>http://localhost:1313/notas/2026-02-12/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 11/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-11/</link>
+      <link>http://localhost:1313/notas/2026-02-11/</link>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-11/</guid>
+      <guid>http://localhost:1313/notas/2026-02-11/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 10/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-10/</link>
+      <link>http://localhost:1313/notas/2026-02-10/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-10/</guid>
+      <guid>http://localhost:1313/notas/2026-02-10/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 09/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-09/</link>
+      <link>http://localhost:1313/notas/2026-02-09/</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-09/</guid>
+      <guid>http://localhost:1313/notas/2026-02-09/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 06/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-06/</link>
+      <link>http://localhost:1313/notas/2026-02-06/</link>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-06/</guid>
+      <guid>http://localhost:1313/notas/2026-02-06/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 05/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-05/</link>
+      <link>http://localhost:1313/notas/2026-02-05/</link>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-05/</guid>
+      <guid>http://localhost:1313/notas/2026-02-05/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 04/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-04/</link>
+      <link>http://localhost:1313/notas/2026-02-04/</link>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-04/</guid>
+      <guid>http://localhost:1313/notas/2026-02-04/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 03/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-03/</link>
+      <link>http://localhost:1313/notas/2026-02-03/</link>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-03/</guid>
+      <guid>http://localhost:1313/notas/2026-02-03/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 02/02/2026</title>
-      <link>https://inksmael.com/notas/2026-02-02/</link>
+      <link>http://localhost:1313/notas/2026-02-02/</link>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-02-02/</guid>
+      <guid>http://localhost:1313/notas/2026-02-02/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 30/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-30/</link>
+      <link>http://localhost:1313/notas/2026-01-30/</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-30/</guid>
+      <guid>http://localhost:1313/notas/2026-01-30/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 29/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-29/</link>
+      <link>http://localhost:1313/notas/2026-01-29/</link>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-29/</guid>
+      <guid>http://localhost:1313/notas/2026-01-29/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 28/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-28/</link>
+      <link>http://localhost:1313/notas/2026-01-28/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-28/</guid>
+      <guid>http://localhost:1313/notas/2026-01-28/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 27/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-27/</link>
+      <link>http://localhost:1313/notas/2026-01-27/</link>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-27/</guid>
+      <guid>http://localhost:1313/notas/2026-01-27/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 26/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-26/</link>
+      <link>http://localhost:1313/notas/2026-01-26/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-26/</guid>
+      <guid>http://localhost:1313/notas/2026-01-26/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 23/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-23/</link>
+      <link>http://localhost:1313/notas/2026-01-23/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-23/</guid>
+      <guid>http://localhost:1313/notas/2026-01-23/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 22/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-22/</link>
+      <link>http://localhost:1313/notas/2026-01-22/</link>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-22/</guid>
+      <guid>http://localhost:1313/notas/2026-01-22/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 21/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-21/</link>
+      <link>http://localhost:1313/notas/2026-01-21/</link>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-21/</guid>
+      <guid>http://localhost:1313/notas/2026-01-21/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 20/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-20/</link>
+      <link>http://localhost:1313/notas/2026-01-20/</link>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-20/</guid>
+      <guid>http://localhost:1313/notas/2026-01-20/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 19/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-19/</link>
+      <link>http://localhost:1313/notas/2026-01-19/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-19/</guid>
+      <guid>http://localhost:1313/notas/2026-01-19/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 16/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-16/</link>
+      <link>http://localhost:1313/notas/2026-01-16/</link>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-16/</guid>
+      <guid>http://localhost:1313/notas/2026-01-16/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 15/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-15/</link>
+      <link>http://localhost:1313/notas/2026-01-15/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-15/</guid>
+      <guid>http://localhost:1313/notas/2026-01-15/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 14/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-14/</link>
+      <link>http://localhost:1313/notas/2026-01-14/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-14/</guid>
+      <guid>http://localhost:1313/notas/2026-01-14/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 13/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-13/</link>
+      <link>http://localhost:1313/notas/2026-01-13/</link>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-13/</guid>
+      <guid>http://localhost:1313/notas/2026-01-13/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 12/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-12/</link>
+      <link>http://localhost:1313/notas/2026-01-12/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-12/</guid>
+      <guid>http://localhost:1313/notas/2026-01-12/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 09/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-09/</link>
+      <link>http://localhost:1313/notas/2026-01-09/</link>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-09/</guid>
+      <guid>http://localhost:1313/notas/2026-01-09/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 09/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-09_1/</link>
+      <title>Pusheen adormilado</title>
+      <link>http://localhost:1313/notas/pusheen-adormilado/</link>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-09_1/</guid>
+      <guid>http://localhost:1313/notas/pusheen-adormilado/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 08/01/2026</title>
-      <link>https://inksmael.com/notas/2026-01-08/</link>
+      <link>http://localhost:1313/notas/2026-01-08/</link>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2026-01-08/</guid>
+      <guid>http://localhost:1313/notas/2026-01-08/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 19/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-19/</link>
+      <link>http://localhost:1313/notas/2025-12-19/</link>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-19/</guid>
+      <guid>http://localhost:1313/notas/2025-12-19/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 18/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-18/</link>
+      <link>http://localhost:1313/notas/2025-12-18/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-18/</guid>
+      <guid>http://localhost:1313/notas/2025-12-18/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 17/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-17/</link>
+      <link>http://localhost:1313/notas/2025-12-17/</link>
       <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-17/</guid>
+      <guid>http://localhost:1313/notas/2025-12-17/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 16/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-16/</link>
+      <link>http://localhost:1313/notas/2025-12-16/</link>
       <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-16/</guid>
+      <guid>http://localhost:1313/notas/2025-12-16/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nota del 16/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-16_1/</link>
+      <title>Pusheen tostada</title>
+      <link>http://localhost:1313/notas/pusheen-tostada/</link>
       <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-16_1/</guid>
+      <guid>http://localhost:1313/notas/pusheen-tostada/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 15/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-15/</link>
+      <link>http://localhost:1313/notas/2025-12-15/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-15/</guid>
+      <guid>http://localhost:1313/notas/2025-12-15/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 11/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-11/</link>
+      <link>http://localhost:1313/notas/2025-12-11/</link>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-11/</guid>
+      <guid>http://localhost:1313/notas/2025-12-11/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 10/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-10/</link>
+      <link>http://localhost:1313/notas/2025-12-10/</link>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-10/</guid>
+      <guid>http://localhost:1313/notas/2025-12-10/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 09/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-09/</link>
+      <link>http://localhost:1313/notas/2025-12-09/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-09/</guid>
+      <guid>http://localhost:1313/notas/2025-12-09/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 06/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-06_1/</link>
+      <link>http://localhost:1313/notas/2025-12-06_1/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-06_1/</guid>
+      <guid>http://localhost:1313/notas/2025-12-06_1/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 06/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-06_2/</link>
+      <link>http://localhost:1313/notas/2025-12-06_2/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-06_2/</guid>
+      <guid>http://localhost:1313/notas/2025-12-06_2/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 06/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-06_3/</link>
+      <link>http://localhost:1313/notas/2025-12-06_3/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-06_3/</guid>
+      <guid>http://localhost:1313/notas/2025-12-06_3/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 06/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-06_4/</link>
+      <link>http://localhost:1313/notas/2025-12-06_4/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-06_4/</guid>
+      <guid>http://localhost:1313/notas/2025-12-06_4/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 06/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-06_5/</link>
+      <link>http://localhost:1313/notas/2025-12-06_5/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-06_5/</guid>
+      <guid>http://localhost:1313/notas/2025-12-06_5/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 05/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-05/</link>
+      <link>http://localhost:1313/notas/2025-12-05/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-05/</guid>
+      <guid>http://localhost:1313/notas/2025-12-05/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 04/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-04/</link>
+      <link>http://localhost:1313/notas/2025-12-04/</link>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-04/</guid>
+      <guid>http://localhost:1313/notas/2025-12-04/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 03/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-03/</link>
+      <link>http://localhost:1313/notas/2025-12-03/</link>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-03/</guid>
+      <guid>http://localhost:1313/notas/2025-12-03/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 02/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-02/</link>
+      <link>http://localhost:1313/notas/2025-12-02/</link>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-02/</guid>
+      <guid>http://localhost:1313/notas/2025-12-02/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 01/12/2025</title>
-      <link>https://inksmael.com/notas/2025-12-01/</link>
+      <link>http://localhost:1313/notas/2025-12-01/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-12-01/</guid>
+      <guid>http://localhost:1313/notas/2025-12-01/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 28/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-28/</link>
+      <link>http://localhost:1313/notas/2025-11-28/</link>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-28/</guid>
+      <guid>http://localhost:1313/notas/2025-11-28/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 27/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-27/</link>
+      <link>http://localhost:1313/notas/2025-11-27/</link>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-27/</guid>
+      <guid>http://localhost:1313/notas/2025-11-27/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 26/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-26/</link>
+      <link>http://localhost:1313/notas/2025-11-26/</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-26/</guid>
+      <guid>http://localhost:1313/notas/2025-11-26/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 25/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-25/</link>
+      <link>http://localhost:1313/notas/2025-11-25/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-25/</guid>
+      <guid>http://localhost:1313/notas/2025-11-25/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 24/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-24/</link>
+      <link>http://localhost:1313/notas/2025-11-24/</link>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-24/</guid>
+      <guid>http://localhost:1313/notas/2025-11-24/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 22/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-22/</link>
+      <link>http://localhost:1313/notas/2025-11-22/</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-22/</guid>
+      <guid>http://localhost:1313/notas/2025-11-22/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 21/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-21/</link>
+      <link>http://localhost:1313/notas/2025-11-21/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-21/</guid>
+      <guid>http://localhost:1313/notas/2025-11-21/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 20/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-20/</link>
+      <link>http://localhost:1313/notas/2025-11-20/</link>
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-20/</guid>
+      <guid>http://localhost:1313/notas/2025-11-20/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 19/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-19/</link>
+      <link>http://localhost:1313/notas/2025-11-19/</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-19/</guid>
+      <guid>http://localhost:1313/notas/2025-11-19/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 18/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-18/</link>
+      <link>http://localhost:1313/notas/2025-11-18/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-18/</guid>
+      <guid>http://localhost:1313/notas/2025-11-18/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 17/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-17/</link>
+      <link>http://localhost:1313/notas/2025-11-17/</link>
       <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-17/</guid>
+      <guid>http://localhost:1313/notas/2025-11-17/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 14/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-14/</link>
+      <link>http://localhost:1313/notas/2025-11-14/</link>
       <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-14/</guid>
+      <guid>http://localhost:1313/notas/2025-11-14/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 13/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-13/</link>
+      <link>http://localhost:1313/notas/2025-11-13/</link>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-13/</guid>
+      <guid>http://localhost:1313/notas/2025-11-13/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 12/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-12/</link>
+      <link>http://localhost:1313/notas/2025-11-12/</link>
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-12/</guid>
+      <guid>http://localhost:1313/notas/2025-11-12/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 11/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-11/</link>
+      <link>http://localhost:1313/notas/2025-11-11/</link>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-11/</guid>
+      <guid>http://localhost:1313/notas/2025-11-11/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 10/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-10/</link>
+      <link>http://localhost:1313/notas/2025-11-10/</link>
       <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-10/</guid>
+      <guid>http://localhost:1313/notas/2025-11-10/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 07/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-07/</link>
+      <link>http://localhost:1313/notas/2025-11-07/</link>
       <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-07/</guid>
+      <guid>http://localhost:1313/notas/2025-11-07/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 06/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-06/</link>
+      <link>http://localhost:1313/notas/2025-11-06/</link>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-06/</guid>
+      <guid>http://localhost:1313/notas/2025-11-06/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 05/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-05/</link>
+      <link>http://localhost:1313/notas/2025-11-05/</link>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-05/</guid>
+      <guid>http://localhost:1313/notas/2025-11-05/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 04/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-04/</link>
+      <link>http://localhost:1313/notas/2025-11-04/</link>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-04/</guid>
+      <guid>http://localhost:1313/notas/2025-11-04/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 03/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-03/</link>
+      <link>http://localhost:1313/notas/2025-11-03/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-11-03/</guid>
+      <guid>http://localhost:1313/notas/2025-11-03/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 31/10/2025</title>
-      <link>https://inksmael.com/notas/2025-10-31/</link>
+      <link>http://localhost:1313/notas/2025-10-31/</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-10-31/</guid>
+      <guid>http://localhost:1313/notas/2025-10-31/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 30/10/2025</title>
-      <link>https://inksmael.com/notas/2025-10-30/</link>
+      <link>http://localhost:1313/notas/2025-10-30/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-10-30/</guid>
+      <guid>http://localhost:1313/notas/2025-10-30/</guid>
       <description></description>
     </item>
     <item>
       <title>Nota del 29/10/2025</title>
-      <link>https://inksmael.com/notas/2025-10-29/</link>
+      <link>http://localhost:1313/notas/2025-10-29/</link>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://inksmael.com/notas/2025-10-29/</guid>
+      <guid>http://localhost:1313/notas/2025-10-29/</guid>
       <description></description>
     </item>
   </channel>
