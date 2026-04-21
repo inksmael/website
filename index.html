@@ -22,27 +22,39 @@
 </head>
 <body>
     <div class="site">
-        <header class="site-header">
-    <div class="brand">
-        <a href="/" class="brand__logo-link">
-            <img class="brand__logo" src="/resources/img/inksmael-logo.png" alt="Inksmael logo">
-        </a>
-        <p class="brand__subtitle">Garabatos, arte y otras cosillas</p>
         
+
+
+
+<header class="site-header site-header--shared">
+    <div class="brand brand--shared">
+        <a href="/" class="brand__logo-link">
+            <img class="brand__logo brand__logo--shared" src="/resources/img/inksmael-logo.png" alt="Inksmael logo">
+        </a>
+        <p class="brand__subtitle brand__subtitle--shared">Garabatos, arte y otras cosillas</p>
     </div>
 
-    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
-        Menu
+    <button
+        class="menu-toggle menu-toggle--shared"
+        type="button"
+        aria-expanded="false"
+        aria-controls="site-nav"
+        aria-label="Abrir menu"
+    >
+        Men&uacute;
     </button>
 
-    <nav class="site-nav" id="site-nav" aria-label="Main navigation">
-        <ul class="site-nav__list">
+    <nav class="site-nav site-nav--shared" id="site-nav" aria-label="Main navigation" hidden>
+        <ul class="site-nav__list site-nav__list--shared">
+        
             <li class="site-nav__item site-nav__item--active">
                 <a href="/">Home</a>
             </li>
+        
             <li class="site-nav__item ">
                 <a href="/notas/">Notas</a>
             </li>
+        
         </ul>
     </nav>
 </header>

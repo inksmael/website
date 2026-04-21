@@ -23,33 +23,45 @@
 </head>
 <body>
     <div class="site">
-        <header class="site-header">
-    <div class="brand">
-        <a href="/" class="brand__logo-link">
-            <img class="brand__logo" src="/resources/img/inksmael-logo.png" alt="Inksmael logo">
-        </a>
-        <p class="brand__subtitle">Garabatos, arte y otras cosillas</p>
         
+
+
+
+<header class="site-header site-header--shared">
+    <div class="brand brand--shared">
+        <a href="/" class="brand__logo-link">
+            <img class="brand__logo brand__logo--shared" src="/resources/img/inksmael-logo.png" alt="Inksmael logo">
+        </a>
+        <p class="brand__subtitle brand__subtitle--shared">Garabatos, arte y otras cosillas</p>
     </div>
 
-    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
-        Menu
+    <button
+        class="menu-toggle menu-toggle--shared"
+        type="button"
+        aria-expanded="false"
+        aria-controls="site-nav"
+        aria-label="Abrir menu"
+    >
+        Men&uacute;
     </button>
 
-    <nav class="site-nav" id="site-nav" aria-label="Main navigation">
-        <ul class="site-nav__list">
+    <nav class="site-nav site-nav--shared" id="site-nav" aria-label="Main navigation" hidden>
+        <ul class="site-nav__list site-nav__list--shared">
+        
             <li class="site-nav__item ">
                 <a href="/">Home</a>
             </li>
+        
             <li class="site-nav__item site-nav__item--active">
                 <a href="/notas/">Notas</a>
             </li>
+        
         </ul>
     </nav>
 </header>
 
 
-        <main class="site-main detail-container">
+        <main class="site-main">
             
 
 
@@ -174,6 +186,8 @@
     
 
     
+
+    
         
             
         
@@ -287,19 +301,19 @@
     
 
 
-<div class="detail-container">
-    <div class="detail-image-nav">
+<article class="note-detail">
+    <div class="note-detail__media">
         <img
             src="/resources/img/notas/2026-01-20.jpg"
             width="500"
             height="500"
             alt="Nota del 20/01/2026"
-            class="detail-image"
+            class="note-detail__image"
         >
 
         
         <a
-            class="img-nav img-nav-left"
+            class="note-detail__image-nav-link note-detail__image-nav-link--prev"
             href="/notas/2026-01-21/"
             title="Ver la siguiente nota"
             aria-label="Siguiente nota">
@@ -308,7 +322,7 @@
 
         
         <a
-            class="img-nav img-nav-right"
+            class="note-detail__image-nav-link note-detail__image-nav-link--next"
             href="/notas/2026-01-19/"
             title="Ver la nota anterior"
             aria-label="Nota anterior">
@@ -316,8 +330,8 @@
         
     </div>
 
-    <div class="detail-caption">
-        <div class="detail-date">
+    <div class="note-detail__caption">
+        <div class="note-detail__date">
             Noda del 20/01/2026
         </div>
         
@@ -325,20 +339,18 @@
 
     
 
-    <div class="detail-nav">
+    <nav class="note-detail__nav" aria-label="Navegacion entre notas">
         
-            <a class="nav-left" href="/notas/2026-01-21/" title="Ver la siguiente nota">&lt; siguiente</a>
+            <a class="note-detail__nav-link note-detail__nav-link--prev" href="/notas/2026-01-21/" title="Ver la siguiente nota">&laquo; siguiente</a>
         
 
-         | 
-        <a href="/notas/" title="Volver al listado completo de notas">todas</a>
-         | 
+        <span class="note-detail__nav-separator">|</span>
 
         
-            <a class="nav-right" href="/notas/2026-01-19/" title="Ver la nota anterior">anterior &gt;</a>
+            <a class="note-detail__nav-link note-detail__nav-link--next" href="/notas/2026-01-19/" title="Ver la nota anterior">anterior &raquo;</a>
         
-    </div>
-</div>
+    </nav>
+</article>
 
         </main>
 
