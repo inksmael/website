@@ -1,16 +1,15 @@
 # Inksmael
 
-This is a personal artist website showcasing a collection of visual notes—daily sketches and illustrations organized chronologically.
+Inksmael es una web personal donde se muestra contenido principalmente visual (dibujos, bocetos, ilustraciones, etc...)
 
-The website is available at https://inksmael.com and is primarily visual in nature. The content consists of hand-drawn notes and sketches published on a regular basis.
+La web está disponible en https://inksmael.com.
 
-## Structure
+## Estructura
 
-- [Home](https://inksmael.com/): Landing page with the Inksmael logo
-- [Notes Gallery](https://inksmael.com/notas/): Grid gallery of all visual notes, sorted by date (newest first)
+- [Inicio](https://inksmael.com/): página principal con el logotipo de Inksmael.
+- [Notas](https://inksmael.com/notas/): galería en cuadrícula con todas las notas visuales, ordenadas por fecha de publicación, de más recientes a más antiguas.
+- [RSS](https://inksmael.com/index.xml): feed con el contenido publicado recientemente.
 
-## Content
+## Derechos
 
-The "Notas" (Notes) section contains dated visual artwork. Each note is an image with a date caption. Notes are named by date in YYYY-MM-DD format, with optional suffixes (_1, _2, etc.) when multiple notes are published on the same day.
-
-Individual note pages follow the pattern: `https://inksmael.com/notas/detalle/YYYY-MM-DD.html`
+Todas las ilustraciones pertenecen al propietario del sitio salvo que se indique lo contrario. Las imágenes no deben tratarse como recursos de libre reutilización.
