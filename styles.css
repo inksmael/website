@@ -362,6 +362,15 @@ a {
     margin: 2rem 0;
 }
 
+.note-detail__description iframe {
+    display: block;
+    width: 100%;
+    max-width: 560px;
+    aspect-ratio: 16 / 9;
+    height: auto;
+    margin: 0 auto;
+}
+
 /* ------------------------------------------------------------
    Responsive
 ------------------------------------------------------------ */
