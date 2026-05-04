@@ -280,6 +280,7 @@ a {
 ------------------------------------------------------------ */
 .note-detail {
     text-align: center;
+    padding: 1rem 0;
 }
 
 .note-detail__media {
@@ -355,6 +356,10 @@ a {
 .note-detail__nav-separator {
     display: inline-block;
     margin: 0 0.5rem;
+}
+
+.note-detail__description {
+    margin: 2rem 0;
 }
 
 /* ------------------------------------------------------------
