@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://inksmael.com/notas/chicken-banana-2/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://inksmael.com/</loc>
-    <lastmod>2026-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://inksmael.com/notas/</loc>
+    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://inksmael.com/notas/gabby-abuela-yogato/</loc>
     <lastmod>2026-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://inksmael.com/notas/la-tonteria-de-antes-de-acostar/</loc>
-    <lastmod>2026-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://inksmael.com/notas/</loc>
     <lastmod>2026-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://inksmael.com/notas/chicken-banana/</loc>
@@ -370,5 +373,9 @@
   </url><url>
     <loc>https://inksmael.com/notas/2025-10-29/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://inksmael.com/misc/</loc>
+  </url><url>
+    <loc>https://inksmael.com/misc/recetas/</loc>
   </url>
 </urlset>
