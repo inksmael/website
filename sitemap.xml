@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://inksmael.com/notas/chicken-banana-2/</loc>
-    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://inksmael.com/</loc>
+    <lastmod>2026-05-10T00:13:59+02:00</lastmod>
+  </url><url>
+    <loc>https://inksmael.com/misc/</loc>
+    <lastmod>2026-05-10T00:13:59+02:00</lastmod>
+  </url><url>
+    <loc>https://inksmael.com/misc/recetas/</loc>
+    <lastmod>2026-05-10T00:13:59+02:00</lastmod>
+  </url><url>
+    <loc>https://inksmael.com/misc/recetas/pan-de-masa-madre/</loc>
+    <lastmod>2026-05-10T00:13:59+02:00</lastmod>
+  </url><url>
+    <loc>https://inksmael.com/notas/chicken-banana-2/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://inksmael.com/notas/</loc>
@@ -373,9 +382,5 @@
   </url><url>
     <loc>https://inksmael.com/notas/2025-10-29/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://inksmael.com/misc/</loc>
-  </url><url>
-    <loc>https://inksmael.com/misc/recetas/</loc>
   </url>
 </urlset>
