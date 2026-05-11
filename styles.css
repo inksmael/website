@@ -1,8 +1,129 @@
+/*! modern-normalize v3.0.1 | MIT License | https://github.com/sindresorhus/modern-normalize */
+
+/* ------------------------------------------------------------
+   Modern Normalize
+------------------------------------------------------------ */
+
 *,
-*::before,
-*::after {
+::before,
+::after {
     box-sizing: border-box;
 }
+
+html {
+    font-family:
+        system-ui,
+        "Segoe UI",
+        Roboto,
+        Helvetica,
+        Arial,
+        sans-serif,
+        "Apple Color Emoji",
+        "Segoe UI Emoji";
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    tab-size: 4;
+}
+
+body {
+    margin: 0;
+}
+
+b,
+strong {
+    font-weight: bolder;
+}
+
+code,
+kbd,
+samp,
+pre {
+    font-family:
+        ui-monospace,
+        SFMono-Regular,
+        Consolas,
+        "Liberation Mono",
+        Menlo,
+        monospace;
+    font-size: 1em;
+}
+
+small {
+    font-size: 80%;
+}
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+sup {
+    top: -0.5em;
+}
+
+table {
+    border-color: currentcolor;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+}
+
+button,
+[type="button"],
+[type="reset"],
+[type="submit"] {
+    -webkit-appearance: button;
+}
+
+legend {
+    padding: 0;
+}
+
+progress {
+    vertical-align: baseline;
+}
+
+::-webkit-inner-spin-button,
+::-webkit-outer-spin-button {
+    height: auto;
+}
+
+[type="search"] {
+    -webkit-appearance: textfield;
+    outline-offset: -2px;
+}
+
+::-webkit-search-decoration {
+    -webkit-appearance: none;
+}
+
+::-webkit-file-upload-button {
+    -webkit-appearance: button;
+    font: inherit;
+}
+
+summary {
+    display: list-item;
+}
+
+/* ------------------------------------------------------------
+   Custom Styles
+------------------------------------------------------------ */
 
 /* ------------------------------------------------------------
    Tokens
@@ -12,10 +133,13 @@
     --color-text: #0c0f0a;
     --color-background: #fff;
     --color-border: #111;
-    --color-link: #333;
+    --color-link: #111;
     --color-link-hover: #ae1111;
     --color-muted: #888;
     --color-disabled: #aaa;
+    --content-max-width: 760px;
+    --notes-list-image-border-width: 1px;
+    --notes-list-image-gap: 5px;
 }
 
 /* ------------------------------------------------------------
@@ -40,8 +164,15 @@ img {
 }
 
 a {
-    color: inherit;
     text-decoration: none;
+    color: var(--color-link);
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+}
+
+a:hover {
+    text-decoration: none;
+    color: var(--color-link-hover);
 }
 
 .visually-hidden {
@@ -74,6 +205,11 @@ a {
 
 .site-header {
     padding: 1rem;
+}
+
+.site-main {
+    font-size: 1rem;
+    padding: 0 0.5rem;
 }
 
 .site-footer {
@@ -152,6 +288,7 @@ a {
 
 .site-nav__item a {
     display: inline-block;
+    text-decoration: none;
 }
 
 .site-nav__item--active a {
@@ -168,6 +305,51 @@ a {
 
 .site-nav__list--shared .site-nav__item a:hover {
     color: var(--color-link-hover);
+}
+
+/* ------------------------------------------------------------
+   Breadcrumbs
+------------------------------------------------------------ */
+.breadcrumbs {
+    max-width: var(--content-max-width);
+    margin: 0 auto 1rem;
+    padding: 0;
+    font-size: 0.85rem;
+    color: var(--color-muted);
+}
+
+.breadcrumbs__list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.breadcrumbs__item {
+    display: inline-flex;
+    align-items: center;
+    min-width: 0;
+}
+
+.breadcrumbs__item + .breadcrumbs__item::before {
+    content: "/";
+    margin-right: 0.35rem;
+    color: var(--color-muted);
+}
+
+.breadcrumbs__item a {
+    color: var(--color-muted);
+    text-decoration: none;
+}
+
+.breadcrumbs__item a:hover {
+    color: var(--color-link-hover);
+}
+
+.breadcrumbs__item[aria-current="page"] {
+    color: var(--color-text);
 }
 
 /* ------------------------------------------------------------
@@ -210,31 +392,46 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
+    max-width: var(--content-max-width);
+    margin: 0 auto;
 }
 
 .notes-list__intro {
-    max-width: 600px;
-    margin: 0 auto 1rem auto;
-    text-align: center;
+    width: 100%;
+    max-width: var(--content-max-width);
+    margin: 0 0 1rem;
+    text-align: left;
 }
 
 .notes-list__count {
     margin-top: 0;
-    text-align: center;
+    text-align: left;
 }
 
 .notes-list__grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
+    gap: calc(var(--notes-list-image-gap) - (var(--notes-list-image-border-width) * 2));
     width: 100%;
-    max-width: 950px;
+    max-width: var(--content-max-width);
     margin: 0 auto;
+}
+
+.notes-list__link {
+    display: block;
 }
 
 .notes-list__image {
     width: 100%;
     height: auto;
+    border: var(--notes-list-image-border-width) solid var(--color-background);
+    border-radius: 7px;
+}
+
+.notes-list__link:hover .notes-list__image,
+.notes-list__link:focus-visible .notes-list__image {
+    border-color: var(--color-muted);
 }
 
 .notes-list__pagination {
@@ -282,7 +479,7 @@ a {
     display: block;
     margin-bottom: 1rem;
     box-shadow: 0 2px 4px rgba(0,0,0,0.15);
-    border-radius: 6px;
+    border-radius: 7px;
 }
 
 .note-detail__image-nav-link {
@@ -319,7 +516,7 @@ a {
 }
 
 .note-detail__text {
-    font-size: 1rem;
+    /*font-size: 1rem; */
 }
 
 .note-detail__nav {
@@ -363,7 +560,7 @@ a {
 ------------------------------------------------------------ */
 .misc-list,
 .misc-page {
-    max-width: 760px;
+    max-width: var(--content-max-width);
     margin: 0 auto;
     padding: 0;
 }
@@ -377,7 +574,7 @@ a {
 .misc-list__title,
 .misc-page__title {
     margin: 0;
-    font-size: 2rem;
+    /*font-size: 2rem;*/
     line-height: 1.2;
 }
 
@@ -389,7 +586,7 @@ a {
 
 .misc-list__content,
 .misc-page__content {
-    font-size: 1rem;
+    /*font-size: 1rem;*/
 }
 
 .misc-list__content h1,
@@ -407,18 +604,6 @@ a {
 
 .misc-list__items:empty {
     display: none;
-}
-
-.misc-list__items a,
-.misc-page__content a {
-    color: var(--color-link);
-    text-decoration: underline;
-    text-underline-offset: 0.15em;
-}
-
-.misc-list__items a:hover,
-.misc-page__content a:hover {
-    color: var(--color-link-hover);
 }
 
 .recipe-tabs {
