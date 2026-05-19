@@ -542,8 +542,12 @@ a:hover {
 }
 
 .note-detail__description {
-    margin: 2rem;
+    margin: 1rem;
     text-align: left;
+}
+
+.note-detail__description img {
+    margin: 1rem auto;
 }
 
 .note-detail__description iframe {
