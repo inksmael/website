@@ -542,7 +542,8 @@ a:hover {
 }
 
 .note-detail__description {
-    margin: 1rem;
+    max-width: 480px;
+    margin: 1rem auto;
     text-align: left;
 }
 
