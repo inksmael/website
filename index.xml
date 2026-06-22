@@ -6,12 +6,54 @@
     <description>Garabatos, arte y otras cosillas</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Wed, 17 Jun 2026 15:27:48 &#43;0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 09:55:29 &#43;0200</lastBuildDate>
 
     
     <atom:link href="https://inksmael.com/index.xml" rel="alternate" type="application/rss&#43;xml" />
     
 
+    
+    
+    <item>
+      <title>Te Fiti (Vaiana)</title>
+      <link>https://inksmael.com/notas/vaiana-te-fiti/</link>
+      <guid>https://inksmael.com/notas/vaiana-te-fiti/</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+      
+      
+        
+      
+
+      
+      
+        
+      
+
+      
+      <description>Te Fiti, de la película &#34;Vaiana&#34;&lt;p&gt;&lt;a href=&#34;https://inksmael.com/notas/vaiana-te-fiti/&#34;&gt;Thumbnail&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;https://inksmael.com/resources/img/notas_thumbs/vaiana-te-fiti.jpg&#34; alt=&#34;Te Fiti (Vaiana)&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    
+    <item>
+      <title>Spider-Ham</title>
+      <link>https://inksmael.com/notas/spider-ham/</link>
+      <guid>https://inksmael.com/notas/spider-ham/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 &#43;0000</pubDate>
+
+      
+      
+        
+      
+
+      
+      
+        
+      
+
+      
+      <description>Spider-Ham&lt;p&gt;&lt;a href=&#34;https://inksmael.com/notas/spider-ham/&#34;&gt;Thumbnail&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;https://inksmael.com/resources/img/notas_thumbs/spider-ham.jpg&#34; alt=&#34;Spider-Ham&#34; /&gt;&lt;/p&gt;</description>
+    </item>
     
     
     <item>
@@ -2636,12 +2678,14 @@
     
     
     <item>
-      <title>Nota del 26/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-26/</link>
-      <guid>https://inksmael.com/notas/2025-11-26/</guid>
+      <title>Heihei (Vaiana)</title>
+      <link>https://inksmael.com/notas/vaiana-heihei/</link>
+      <guid>https://inksmael.com/notas/vaiana-heihei/</guid>
       <pubDate>Wed, 26 Nov 2025 00:00:00 &#43;0000</pubDate>
 
       
+      
+        
       
 
       
@@ -2650,7 +2694,7 @@
       
 
       
-      <description>&lt;p&gt;&lt;a href=&#34;https://inksmael.com/notas/2025-11-26/&#34;&gt;Thumbnail&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;https://inksmael.com/resources/img/notas_thumbs/2025-11-26.jpg&#34; alt=&#34;Nota del 26/11/2025&#34; /&gt;&lt;/p&gt;</description>
+      <description>Heihei, de la película &#34;Vaiana&#34;&lt;p&gt;&lt;a href=&#34;https://inksmael.com/notas/vaiana-heihei/&#34;&gt;Thumbnail&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;https://inksmael.com/resources/img/notas_thumbs/vaiana-heihei.jpg&#34; alt=&#34;Heihei (Vaiana)&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     
@@ -2674,12 +2718,14 @@
     
     
     <item>
-      <title>Nota del 24/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-24/</link>
-      <guid>https://inksmael.com/notas/2025-11-24/</guid>
+      <title>Maui (Vaiana)</title>
+      <link>https://inksmael.com/notas/vaiana-maui/</link>
+      <guid>https://inksmael.com/notas/vaiana-maui/</guid>
       <pubDate>Mon, 24 Nov 2025 00:00:00 &#43;0000</pubDate>
 
       
+      
+        
       
 
       
@@ -2688,7 +2734,7 @@
       
 
       
-      <description>&lt;p&gt;&lt;a href=&#34;https://inksmael.com/notas/2025-11-24/&#34;&gt;Thumbnail&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;https://inksmael.com/resources/img/notas_thumbs/2025-11-24.jpg&#34; alt=&#34;Nota del 24/11/2025&#34; /&gt;&lt;/p&gt;</description>
+      <description>Maui, de la película &#34;Vaiana&#34;&lt;p&gt;&lt;a href=&#34;https://inksmael.com/notas/vaiana-maui/&#34;&gt;Thumbnail&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;https://inksmael.com/resources/img/notas_thumbs/vaiana-maui.jpg&#34; alt=&#34;Maui (Vaiana)&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     
@@ -2731,12 +2777,14 @@
     
     
     <item>
-      <title>Nota del 20/11/2025</title>
-      <link>https://inksmael.com/notas/2025-11-20/</link>
-      <guid>https://inksmael.com/notas/2025-11-20/</guid>
+      <title>Vaiana (Vaiana)</title>
+      <link>https://inksmael.com/notas/vaiana-vaiana/</link>
+      <guid>https://inksmael.com/notas/vaiana-vaiana/</guid>
       <pubDate>Thu, 20 Nov 2025 00:00:00 &#43;0000</pubDate>
 
       
+      
+        
       
 
       
@@ -2745,7 +2793,7 @@
       
 
       
-      <description>&lt;p&gt;&lt;a href=&#34;https://inksmael.com/notas/2025-11-20/&#34;&gt;Thumbnail&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;https://inksmael.com/resources/img/notas_thumbs/2025-11-20.jpg&#34; alt=&#34;Nota del 20/11/2025&#34; /&gt;&lt;/p&gt;</description>
+      <description>Vaiana, de la película &#34;Vaiana&#34;&lt;p&gt;&lt;a href=&#34;https://inksmael.com/notas/vaiana-vaiana/&#34;&gt;Thumbnail&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;https://inksmael.com/resources/img/notas_thumbs/vaiana-vaiana.jpg&#34; alt=&#34;Vaiana (Vaiana)&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     
