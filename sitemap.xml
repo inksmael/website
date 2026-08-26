@@ -2,544 +2,559 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://inksmael.com/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notas/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notas/patrulla-canina-ruibarbo/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notas/patrulla-canina-rex/</loc>
+    <lastmod>2026-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notas/aladdin-abu/</loc>
+    <lastmod>2026-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notas/aladdin-alfombra/</loc>
+    <lastmod>2026-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notas/aladdin-iago/</loc>
     <lastmod>2026-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/aladdin-iago/</loc>
-    <lastmod>2026-08-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://inksmael.com/notas/</loc>
-    <lastmod>2026-08-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://inksmael.com/notas/aladdin-jafar/</loc>
+    <loc>http://localhost:1313/notas/aladdin-jafar/</loc>
     <lastmod>2026-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/aladdin-jafar-jafar/</loc>
+    <loc>http://localhost:1313/notas/aladdin-jafar-jafar/</loc>
     <lastmod>2026-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/vuelta-de-vacaciones/</loc>
+    <loc>http://localhost:1313/notas/vuelta-de-vacaciones/</loc>
     <lastmod>2026-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/olivinchi-luchy/</loc>
+    <loc>http://localhost:1313/notas/olivinchi-luchy/</loc>
     <lastmod>2026-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/enredados-bandido-garfio/</loc>
+    <loc>http://localhost:1313/notas/enredados-bandido-garfio/</loc>
     <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/enredados-bandido-cupido/</loc>
+    <loc>http://localhost:1313/notas/enredados-bandido-cupido/</loc>
     <lastmod>2026-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/enredados-maximus/</loc>
+    <loc>http://localhost:1313/notas/enredados-maximus/</loc>
     <lastmod>2026-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/palmer/</loc>
+    <loc>http://localhost:1313/notas/palmer/</loc>
     <lastmod>2026-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/toy-story-perdigon/</loc>
+    <loc>http://localhost:1313/notas/toy-story-perdigon/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/toy-story-jessie/</loc>
+    <loc>http://localhost:1313/notas/toy-story-jessie/</loc>
     <lastmod>2026-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/octonautas-tunip/</loc>
+    <loc>http://localhost:1313/notas/campamento-2026-triceratops/</loc>
+    <lastmod>2026-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notas/octonautas-tunip/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/octonautas-shellington/</loc>
+    <loc>http://localhost:1313/notas/octonautas-shellington/</loc>
     <lastmod>2026-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/octonautas-tweak/</loc>
+    <loc>http://localhost:1313/notas/octonautas-tweak/</loc>
     <lastmod>2026-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/octonautas-peso/</loc>
+    <loc>http://localhost:1313/notas/octonautas-peso/</loc>
     <lastmod>2026-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/octonautas-kwazii/</loc>
+    <loc>http://localhost:1313/notas/octonautas-kwazii/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/octonautas-profesor-inkling/</loc>
+    <loc>http://localhost:1313/notas/octonautas-profesor-inkling/</loc>
     <lastmod>2026-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/octonautas-capitan-barnacles/</loc>
+    <loc>http://localhost:1313/notas/octonautas-capitan-barnacles/</loc>
     <lastmod>2026-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/vaiana-pua/</loc>
+    <loc>http://localhost:1313/notas/vaiana-pua/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/vaiana-tamatoa/</loc>
+    <loc>http://localhost:1313/notas/vaiana-tamatoa/</loc>
     <lastmod>2026-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/my-little-pony-twilight-sparkle/</loc>
+    <loc>http://localhost:1313/notas/my-little-pony-twilight-sparkle/</loc>
     <lastmod>2026-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/vaiana-te-ka/</loc>
+    <loc>http://localhost:1313/notas/vaiana-te-ka/</loc>
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/vaiana-te-fiti/</loc>
+    <loc>http://localhost:1313/notas/vaiana-te-fiti/</loc>
     <lastmod>2026-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/spider-ham/</loc>
+    <loc>http://localhost:1313/notas/spider-ham/</loc>
     <lastmod>2026-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gato-de-feria/</loc>
+    <loc>http://localhost:1313/notas/gato-de-feria/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/shrek-lord-farquaad/</loc>
+    <loc>http://localhost:1313/notas/shrek-lord-farquaad/</loc>
     <lastmod>2026-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/shrek-dragona/</loc>
+    <loc>http://localhost:1313/notas/shrek-dragona/</loc>
     <lastmod>2026-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/la-tonteria-de-antes-de-acostar-la-viejita/</loc>
+    <loc>http://localhost:1313/notas/la-tonteria-de-antes-de-acostar-la-viejita/</loc>
     <lastmod>2026-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/camping-capfun-elefante/</loc>
+    <loc>http://localhost:1313/notas/camping-capfun-elefante/</loc>
     <lastmod>2026-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/camping-capfun-fiesta-de-la-espuma/</loc>
+    <loc>http://localhost:1313/notas/camping-capfun-fiesta-de-la-espuma/</loc>
     <lastmod>2026-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/camping-capfun-carabouille/</loc>
+    <loc>http://localhost:1313/notas/camping-capfun-carabouille/</loc>
     <lastmod>2026-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/papi-cumple-45/</loc>
+    <loc>http://localhost:1313/notas/papi-cumple-45/</loc>
     <lastmod>2026-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/tardes-de-patio-con-agua/</loc>
+    <loc>http://localhost:1313/notas/tardes-de-patio-con-agua/</loc>
     <lastmod>2026-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gabby-halloween-siregata-muffin/</loc>
+    <loc>http://localhost:1313/notas/gabby-halloween-siregata-muffin/</loc>
     <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gabby-halloween-yogato-pandy-patitas/</loc>
+    <loc>http://localhost:1313/notas/gabby-halloween-yogato-pandy-patitas/</loc>
     <lastmod>2026-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/enredados-pascal/</loc>
+    <loc>http://localhost:1313/notas/enredados-pascal/</loc>
     <lastmod>2026-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/ada-magnifica-cientifica-ada/</loc>
+    <loc>http://localhost:1313/notas/ada-magnifica-cientifica-ada/</loc>
     <lastmod>2026-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/la-tonteria-de-antes-de-acostar-mono/</loc>
+    <loc>http://localhost:1313/notas/la-tonteria-de-antes-de-acostar-mono/</loc>
     <lastmod>2026-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gabby-chumsley/</loc>
+    <loc>http://localhost:1313/notas/gabby-chumsley/</loc>
     <lastmod>2026-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/fido-dido/</loc>
+    <loc>http://localhost:1313/notas/fido-dido/</loc>
     <lastmod>2026-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/buscando-a-wally-wally/</loc>
+    <loc>http://localhost:1313/notas/buscando-a-wally-wally/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/expreso-pichirilo/</loc>
+    <loc>http://localhost:1313/notas/expreso-pichirilo/</loc>
     <lastmod>2026-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/star-wars-stormtrooper/</loc>
+    <loc>http://localhost:1313/notas/star-wars-stormtrooper/</loc>
     <lastmod>2026-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/star-wars-darth-vader/</loc>
+    <loc>http://localhost:1313/notas/star-wars-darth-vader/</loc>
     <lastmod>2026-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/vampirina-vampirina/</loc>
+    <loc>http://localhost:1313/notas/vampirina-vampirina/</loc>
     <lastmod>2026-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/the-mandalorian-grogu/</loc>
+    <loc>http://localhost:1313/notas/the-mandalorian-grogu/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/sexy-abu/</loc>
+    <loc>http://localhost:1313/notas/sexy-abu/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/lilo-y-stitch-capitan-gantu/</loc>
+    <loc>http://localhost:1313/notas/lilo-y-stitch-capitan-gantu/</loc>
     <lastmod>2026-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/lilo-y-stitch-cobra-bubbles/</loc>
+    <loc>http://localhost:1313/notas/lilo-y-stitch-cobra-bubbles/</loc>
     <lastmod>2026-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/la-tonteria-de-antes-de-acostar-banana/</loc>
+    <loc>http://localhost:1313/notas/la-tonteria-de-antes-de-acostar-banana/</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/lilo-y-stitch-lilo/</loc>
+    <loc>http://localhost:1313/notas/lilo-y-stitch-lilo/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/que-tengas-un-dia-miauravilloso/</loc>
+    <loc>http://localhost:1313/notas/que-tengas-un-dia-miauravilloso/</loc>
     <lastmod>2026-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/lilo-y-stitch-stitch/</loc>
+    <loc>http://localhost:1313/notas/lilo-y-stitch-stitch/</loc>
     <lastmod>2026-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/misc/recetas/pan-de-masa-madre/</loc>
+    <loc>http://localhost:1313/misc/recetas/pan-de-masa-madre/</loc>
     <lastmod>2026-05-10T00:13:59+02:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/misc/recetas/</loc>
+    <loc>http://localhost:1313/misc/recetas/</loc>
     <lastmod>2026-05-10T00:13:59+02:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/misc/</loc>
+    <loc>http://localhost:1313/misc/</loc>
     <lastmod>2026-05-10T00:13:59+02:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/chicken-banana-2/</loc>
+    <loc>http://localhost:1313/notas/chicken-banana-2/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gabby-abuela-yogato/</loc>
+    <loc>http://localhost:1313/notas/gabby-abuela-yogato/</loc>
     <lastmod>2026-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/la-tonteria-de-antes-de-acostar/</loc>
+    <loc>http://localhost:1313/notas/la-tonteria-de-antes-de-acostar/</loc>
     <lastmod>2026-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/chicken-banana/</loc>
+    <loc>http://localhost:1313/notas/chicken-banana/</loc>
     <lastmod>2026-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gru-mi-villano-favorito-kevin-stuart-bob/</loc>
+    <loc>http://localhost:1313/notas/gru-mi-villano-favorito-kevin-stuart-bob/</loc>
     <lastmod>2026-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gru-mi-villano-favorito-edith/</loc>
+    <loc>http://localhost:1313/notas/gru-mi-villano-favorito-edith/</loc>
     <lastmod>2026-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gru-mi-villano-favorito-margo/</loc>
+    <loc>http://localhost:1313/notas/gru-mi-villano-favorito-margo/</loc>
     <lastmod>2026-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gru-mi-villano-favorito-dr-nefario/</loc>
+    <loc>http://localhost:1313/notas/gru-mi-villano-favorito-dr-nefario/</loc>
     <lastmod>2026-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gru-mi-villano-favorito-agnes/</loc>
+    <loc>http://localhost:1313/notas/gru-mi-villano-favorito-agnes/</loc>
     <lastmod>2026-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gru-mi-villano-favorito-gru/</loc>
+    <loc>http://localhost:1313/notas/gru-mi-villano-favorito-gru/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gabby-marty/</loc>
+    <loc>http://localhost:1313/notas/gabby-marty/</loc>
     <lastmod>2026-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gabby-hadigata/</loc>
+    <loc>http://localhost:1313/notas/gabby-hadigata/</loc>
     <lastmod>2026-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/foquita-feliz/</loc>
+    <loc>http://localhost:1313/notas/foquita-feliz/</loc>
     <lastmod>2026-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gabby-mama-y-bebe-box/</loc>
+    <loc>http://localhost:1313/notas/gabby-mama-y-bebe-box/</loc>
     <lastmod>2026-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gabby-suenigata/</loc>
+    <loc>http://localhost:1313/notas/gabby-suenigata/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gabby-dj-capucha/</loc>
+    <loc>http://localhost:1313/notas/gabby-dj-capucha/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gabby-carlita/</loc>
+    <loc>http://localhost:1313/notas/gabby-carlita/</loc>
     <lastmod>2026-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gabby-pandi-patitas/</loc>
+    <loc>http://localhost:1313/notas/gabby-pandi-patitas/</loc>
     <lastmod>2026-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gabby-muffin/</loc>
+    <loc>http://localhost:1313/notas/gabby-muffin/</loc>
     <lastmod>2026-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gabby-yogato/</loc>
+    <loc>http://localhost:1313/notas/gabby-yogato/</loc>
     <lastmod>2026-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/lord-perro-salchicha/</loc>
+    <loc>http://localhost:1313/notas/lord-perro-salchicha/</loc>
     <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gabby-siregata/</loc>
+    <loc>http://localhost:1313/notas/gabby-siregata/</loc>
     <lastmod>2026-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/gabby-gabby/</loc>
+    <loc>http://localhost:1313/notas/gabby-gabby/</loc>
     <lastmod>2026-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/hoopers-titus-gusano/</loc>
+    <loc>http://localhost:1313/notas/hoopers-titus-gusano/</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/hoopers-diane-tiburon/</loc>
+    <loc>http://localhost:1313/notas/hoopers-diane-tiburon/</loc>
     <lastmod>2026-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/hoopers-loaf/</loc>
+    <loc>http://localhost:1313/notas/hoopers-loaf/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/hoopers-titus-robot/</loc>
+    <loc>http://localhost:1313/notas/hoopers-titus-robot/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/hoopers-alcalde-jerry/</loc>
+    <loc>http://localhost:1313/notas/hoopers-alcalde-jerry/</loc>
     <lastmod>2026-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/hoopers-ellen/</loc>
+    <loc>http://localhost:1313/notas/hoopers-ellen/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/hoopers-mabel-tanaka/</loc>
+    <loc>http://localhost:1313/notas/hoopers-mabel-tanaka/</loc>
     <lastmod>2026-03-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/hoopers-tom/</loc>
+    <loc>http://localhost:1313/notas/hoopers-tom/</loc>
     <lastmod>2026-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/hoopers-rey-george/</loc>
+    <loc>http://localhost:1313/notas/hoopers-rey-george/</loc>
     <lastmod>2026-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/hoopers-mabel-castor/</loc>
+    <loc>http://localhost:1313/notas/hoopers-mabel-castor/</loc>
     <lastmod>2026-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/bridgerton-benedic/</loc>
+    <loc>http://localhost:1313/notas/bridgerton-benedic/</loc>
     <lastmod>2026-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/enredados-flynn-rider/</loc>
+    <loc>http://localhost:1313/notas/enredados-flynn-rider/</loc>
     <lastmod>2026-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/enredados-rapunzel/</loc>
+    <loc>http://localhost:1313/notas/enredados-rapunzel/</loc>
     <lastmod>2026-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/zootropolis-vicealcaldesa-bellwether/</loc>
+    <loc>http://localhost:1313/notas/zootropolis-vicealcaldesa-bellwether/</loc>
     <lastmod>2026-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/zootropolis-koslov/</loc>
+    <loc>http://localhost:1313/notas/zootropolis-koslov/</loc>
     <lastmod>2026-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/zootropolis-mr-big/</loc>
+    <loc>http://localhost:1313/notas/zootropolis-mr-big/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/zootropolis-gazelle/</loc>
+    <loc>http://localhost:1313/notas/zootropolis-gazelle/</loc>
     <lastmod>2026-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/zootropolis-fru-fru/</loc>
+    <loc>http://localhost:1313/notas/zootropolis-fru-fru/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/zootropolis-duke-weaselton/</loc>
+    <loc>http://localhost:1313/notas/zootropolis-duke-weaselton/</loc>
     <lastmod>2026-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/zootropolis-benjamin-bogo-bailarines/</loc>
+    <loc>http://localhost:1313/notas/zootropolis-benjamin-bogo-bailarines/</loc>
     <lastmod>2026-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/zootropolis-benjamin-clawhauser/</loc>
+    <loc>http://localhost:1313/notas/zootropolis-benjamin-clawhauser/</loc>
     <lastmod>2026-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/bridgerton-reina-carlota/</loc>
+    <loc>http://localhost:1313/notas/bridgerton-reina-carlota/</loc>
     <lastmod>2026-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-02-23/</loc>
+    <loc>http://localhost:1313/notas/hoja-al-viento-butternut-squash/</loc>
     <lastmod>2026-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-02-20/</loc>
+    <loc>http://localhost:1313/notas/frozen-anna/</loc>
     <lastmod>2026-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/zootropolis-finnick/</loc>
+    <loc>http://localhost:1313/notas/zootropolis-finnick/</loc>
     <lastmod>2026-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/zootropolis-judy-hopps-de-paisano/</loc>
+    <loc>http://localhost:1313/notas/zootropolis-judy-hopps-de-paisano/</loc>
     <lastmod>2026-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-02-17/</loc>
+    <loc>http://localhost:1313/notas/bing-flop/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-02-16/</loc>
+    <loc>http://localhost:1313/notas/buscando-a-nemo-nemo/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-02-13/</loc>
+    <loc>http://localhost:1313/notas/bluey-bingo/</loc>
     <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/zootropolis-flash-slothmore/</loc>
+    <loc>http://localhost:1313/notas/zootropolis-flash-slothmore/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/zootropolis-bogo/</loc>
+    <loc>http://localhost:1313/notas/zootropolis-bogo/</loc>
     <lastmod>2026-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-02-10/</loc>
+    <loc>http://localhost:1313/notas/pez-abisal/</loc>
     <lastmod>2026-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/zootropolis-nick-wilde/</loc>
+    <loc>http://localhost:1313/notas/zootropolis-nick-wilde/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/zootropolis-judy-hopps/</loc>
+    <loc>http://localhost:1313/notas/zootropolis-judy-hopps/</loc>
     <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-02-05/</loc>
+    <loc>http://localhost:1313/notas/las-guerreras-kpop-zoey/</loc>
     <lastmod>2026-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-02-04/</loc>
+    <loc>http://localhost:1313/notas/bing-bing/</loc>
     <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-02-03/</loc>
+    <loc>http://localhost:1313/notas/las-guerreras-kpop-mira/</loc>
     <lastmod>2026-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/zootropolis2-gary-de-snake/</loc>
+    <loc>http://localhost:1313/notas/zootropolis2-gary-de-snake/</loc>
     <lastmod>2026-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-30/</loc>
+    <loc>http://localhost:1313/notas/bluey-bluey/</loc>
     <lastmod>2026-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-29/</loc>
+    <loc>http://localhost:1313/notas/vaiana-kakamoras/</loc>
     <lastmod>2026-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-28/</loc>
+    <loc>http://localhost:1313/notas/hoja-al-viento-zucchini/</loc>
     <lastmod>2026-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-27/</loc>
+    <loc>http://localhost:1313/notas/daniela-pirata-daniela/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-26/</loc>
+    <loc>http://localhost:1313/notas/las-guerreras-kpop-rumi/</loc>
     <lastmod>2026-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-23/</loc>
+    <loc>http://localhost:1313/notas/canta-mike/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-22/</loc>
+    <loc>http://localhost:1313/notas/toy-story-buddy/</loc>
     <lastmod>2026-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-21/</loc>
+    <loc>http://localhost:1313/notas/canta-buster-moon/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-20/</loc>
+    <loc>http://localhost:1313/notas/toy-story-rex/</loc>
     <lastmod>2026-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-19/</loc>
+    <loc>http://localhost:1313/notas/patrulla-canina-rubble/</loc>
     <lastmod>2026-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-16/</loc>
+    <loc>http://localhost:1313/notas/canta-ash/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-15/</loc>
+    <loc>http://localhost:1313/notas/toy-story-mr-patata/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-14/</loc>
+    <loc>http://localhost:1313/notas/2026-01-14/</loc>
     <lastmod>2026-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-13/</loc>
+    <loc>http://localhost:1313/notas/2026-01-13/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-12/</loc>
+    <loc>http://localhost:1313/notas/2026-01-12/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-09/</loc>
+    <loc>http://localhost:1313/notas/2026-01-09/</loc>
     <lastmod>2026-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/pusheen-adormilado/</loc>
+    <loc>http://localhost:1313/notas/pusheen-adormilado/</loc>
     <lastmod>2026-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2026-01-08/</loc>
+    <loc>http://localhost:1313/notas/2026-01-08/</loc>
     <lastmod>2026-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-12-19/</loc>
+    <loc>http://localhost:1313/notas/2025-12-19/</loc>
     <lastmod>2025-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/shrek-asno/</loc>
+    <loc>http://localhost:1313/notas/shrek-asno/</loc>
     <lastmod>2025-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/shrek-gato-con-botas/</loc>
+    <loc>http://localhost:1313/notas/shrek-gato-con-botas/</loc>
     <lastmod>2025-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/shrek-fiona/</loc>
+    <loc>http://localhost:1313/notas/shrek-fiona/</loc>
     <lastmod>2025-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/pusheen-tostada/</loc>
+    <loc>http://localhost:1313/notas/pusheen-tostada/</loc>
     <lastmod>2025-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-12-15/</loc>
+    <loc>http://localhost:1313/notas/2025-12-15/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-12-11/</loc>
+    <loc>http://localhost:1313/notas/2025-12-11/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-12-10/</loc>
+    <loc>http://localhost:1313/notas/2025-12-10/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-12-09/</loc>
+    <loc>http://localhost:1313/notas/2025-12-09/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-12-06_1/</loc>
+    <loc>http://localhost:1313/notas/2025-12-06_1/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-12-06_2/</loc>
+    <loc>http://localhost:1313/notas/2025-12-06_2/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-12-06_3/</loc>
+    <loc>http://localhost:1313/notas/2025-12-06_3/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-12-06_4/</loc>
+    <loc>http://localhost:1313/notas/2025-12-06_4/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-12-06_5/</loc>
+    <loc>http://localhost:1313/notas/2025-12-06_5/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-12-05/</loc>
+    <loc>http://localhost:1313/notas/2025-12-05/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-12-04/</loc>
+    <loc>http://localhost:1313/notas/2025-12-04/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/shrek-shrek/</loc>
+    <loc>http://localhost:1313/notas/shrek-shrek/</loc>
     <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-12-02/</loc>
+    <loc>http://localhost:1313/notas/2025-12-02/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-12-01/</loc>
+    <loc>http://localhost:1313/notas/2025-12-01/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-28/</loc>
+    <loc>http://localhost:1313/notas/2025-11-28/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-27/</loc>
+    <loc>http://localhost:1313/notas/2025-11-27/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/vaiana-heihei/</loc>
+    <loc>http://localhost:1313/notas/vaiana-heihei/</loc>
     <lastmod>2025-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-25/</loc>
+    <loc>http://localhost:1313/notas/2025-11-25/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/vaiana-maui/</loc>
+    <loc>http://localhost:1313/notas/vaiana-maui/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-22/</loc>
+    <loc>http://localhost:1313/notas/2025-11-22/</loc>
     <lastmod>2025-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-21/</loc>
+    <loc>http://localhost:1313/notas/2025-11-21/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/vaiana-vaiana/</loc>
+    <loc>http://localhost:1313/notas/vaiana-vaiana/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-19/</loc>
+    <loc>http://localhost:1313/notas/2025-11-19/</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-18/</loc>
+    <loc>http://localhost:1313/notas/2025-11-18/</loc>
     <lastmod>2025-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-17/</loc>
+    <loc>http://localhost:1313/notas/2025-11-17/</loc>
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-14/</loc>
+    <loc>http://localhost:1313/notas/2025-11-14/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-13/</loc>
+    <loc>http://localhost:1313/notas/2025-11-13/</loc>
     <lastmod>2025-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-12/</loc>
+    <loc>http://localhost:1313/notas/2025-11-12/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-11/</loc>
+    <loc>http://localhost:1313/notas/2025-11-11/</loc>
     <lastmod>2025-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-10/</loc>
+    <loc>http://localhost:1313/notas/2025-11-10/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-07/</loc>
+    <loc>http://localhost:1313/notas/2025-11-07/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-06/</loc>
+    <loc>http://localhost:1313/notas/2025-11-06/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-05/</loc>
+    <loc>http://localhost:1313/notas/2025-11-05/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-04/</loc>
+    <loc>http://localhost:1313/notas/2025-11-04/</loc>
     <lastmod>2025-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-11-03/</loc>
+    <loc>http://localhost:1313/notas/2025-11-03/</loc>
     <lastmod>2025-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-10-31/</loc>
+    <loc>http://localhost:1313/notas/2025-10-31/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-10-30/</loc>
+    <loc>http://localhost:1313/notas/2025-10-30/</loc>
     <lastmod>2025-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://inksmael.com/notas/2025-10-29/</loc>
+    <loc>http://localhost:1313/notas/2025-10-29/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
   </url>
 </urlset>

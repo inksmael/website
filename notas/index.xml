@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Notas on Inksmael</title>
-		<link>https://inksmael.com/notas/</link>
+		<link>http://localhost:1313/notas/</link>
 		<description>Recent content in Notas on Inksmael</description>
 		<generator>Hugo</generator>
 		<language>es-es</language>
@@ -10,1232 +10,1267 @@
 		
 		
 		
-			<lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://inksmael.com/notas/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/notas/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ruibarbo (La Patrulla Canina: La dino película)</title>
+				<link>http://localhost:1313/notas/patrulla-canina-ruibarbo/</link>
+				<pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/notas/patrulla-canina-ruibarbo/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Rex (La Patrulla Canina: La dino película)</title>
+				<link>http://localhost:1313/notas/patrulla-canina-rex/</link>
+				<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/notas/patrulla-canina-rex/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Abu (Aladdin)</title>
+				<link>http://localhost:1313/notas/aladdin-abu/</link>
+				<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/notas/aladdin-abu/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Alfombra mágica (Aladdin)</title>
+				<link>http://localhost:1313/notas/aladdin-alfombra/</link>
+				<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/notas/aladdin-alfombra/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Iago (Aladdin)</title>
-				<link>https://inksmael.com/notas/aladdin-iago/</link>
+				<link>http://localhost:1313/notas/aladdin-iago/</link>
 				<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/aladdin-iago/</guid>
+				<guid>http://localhost:1313/notas/aladdin-iago/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Jafar (Aladdin)</title>
-				<link>https://inksmael.com/notas/aladdin-jafar/</link>
+				<link>http://localhost:1313/notas/aladdin-jafar/</link>
 				<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/aladdin-jafar/</guid>
+				<guid>http://localhost:1313/notas/aladdin-jafar/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Jafar Jafar (Aladdin)</title>
-				<link>https://inksmael.com/notas/aladdin-jafar-jafar/</link>
+				<link>http://localhost:1313/notas/aladdin-jafar-jafar/</link>
 				<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/aladdin-jafar-jafar/</guid>
+				<guid>http://localhost:1313/notas/aladdin-jafar-jafar/</guid>
 				<description>&lt;p&gt;🎶 &lt;strong&gt;Jafar, Jafar,&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;gran señor,&lt;/em&gt;&lt;br&gt;&#xA;y si pierde…&lt;br&gt;&#xA;&lt;strong&gt;¡MEJOR!&lt;/strong&gt; 🎶&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Vuelta de vacaciones</title>
-				<link>https://inksmael.com/notas/vuelta-de-vacaciones/</link>
+				<link>http://localhost:1313/notas/vuelta-de-vacaciones/</link>
 				<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/vuelta-de-vacaciones/</guid>
+				<guid>http://localhost:1313/notas/vuelta-de-vacaciones/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Amor de luchy</title>
-				<link>https://inksmael.com/notas/olivinchi-luchy/</link>
+				<link>http://localhost:1313/notas/olivinchi-luchy/</link>
 				<pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/olivinchi-luchy/</guid>
+				<guid>http://localhost:1313/notas/olivinchi-luchy/</guid>
 				<description>&lt;p&gt;Nos encanta como cuidas a Luchy y los abracitos que te gusta darle.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Bandido con garfio (Enredados)</title>
-				<link>https://inksmael.com/notas/enredados-bandido-garfio/</link>
+				<link>http://localhost:1313/notas/enredados-bandido-garfio/</link>
 				<pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/enredados-bandido-garfio/</guid>
+				<guid>http://localhost:1313/notas/enredados-bandido-garfio/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bandido cupido (Enredados)</title>
-				<link>https://inksmael.com/notas/enredados-bandido-cupido/</link>
+				<link>http://localhost:1313/notas/enredados-bandido-cupido/</link>
 				<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/enredados-bandido-cupido/</guid>
+				<guid>http://localhost:1313/notas/enredados-bandido-cupido/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Maximus (Enredados)</title>
-				<link>https://inksmael.com/notas/enredados-maximus/</link>
+				<link>http://localhost:1313/notas/enredados-maximus/</link>
 				<pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/enredados-maximus/</guid>
+				<guid>http://localhost:1313/notas/enredados-maximus/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Palmer</title>
-				<link>https://inksmael.com/notas/palmer/</link>
+				<link>http://localhost:1313/notas/palmer/</link>
 				<pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/palmer/</guid>
+				<guid>http://localhost:1313/notas/palmer/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Perdigón (Toy Story)</title>
-				<link>https://inksmael.com/notas/toy-story-perdigon/</link>
+				<link>http://localhost:1313/notas/toy-story-perdigon/</link>
 				<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/toy-story-perdigon/</guid>
+				<guid>http://localhost:1313/notas/toy-story-perdigon/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Jessie (Toy Story)</title>
-				<link>https://inksmael.com/notas/toy-story-jessie/</link>
+				<link>http://localhost:1313/notas/toy-story-jessie/</link>
 				<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/toy-story-jessie/</guid>
+				<guid>http://localhost:1313/notas/toy-story-jessie/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Triceratops</title>
+				<link>http://localhost:1313/notas/campamento-2026-triceratops/</link>
+				<pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/notas/campamento-2026-triceratops/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Tunip (Octonautas)</title>
-				<link>https://inksmael.com/notas/octonautas-tunip/</link>
+				<link>http://localhost:1313/notas/octonautas-tunip/</link>
 				<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/octonautas-tunip/</guid>
+				<guid>http://localhost:1313/notas/octonautas-tunip/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Shellington (Octonautas)</title>
-				<link>https://inksmael.com/notas/octonautas-shellington/</link>
+				<link>http://localhost:1313/notas/octonautas-shellington/</link>
 				<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/octonautas-shellington/</guid>
+				<guid>http://localhost:1313/notas/octonautas-shellington/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Tweak (Octonautas)</title>
-				<link>https://inksmael.com/notas/octonautas-tweak/</link>
+				<link>http://localhost:1313/notas/octonautas-tweak/</link>
 				<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/octonautas-tweak/</guid>
+				<guid>http://localhost:1313/notas/octonautas-tweak/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Peso (Octonautas)</title>
-				<link>https://inksmael.com/notas/octonautas-peso/</link>
+				<link>http://localhost:1313/notas/octonautas-peso/</link>
 				<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/octonautas-peso/</guid>
+				<guid>http://localhost:1313/notas/octonautas-peso/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Kwazii (Octonautas)</title>
-				<link>https://inksmael.com/notas/octonautas-kwazii/</link>
+				<link>http://localhost:1313/notas/octonautas-kwazii/</link>
 				<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/octonautas-kwazii/</guid>
+				<guid>http://localhost:1313/notas/octonautas-kwazii/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Profesor Inkling (Octonautas)</title>
-				<link>https://inksmael.com/notas/octonautas-profesor-inkling/</link>
+				<link>http://localhost:1313/notas/octonautas-profesor-inkling/</link>
 				<pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/octonautas-profesor-inkling/</guid>
+				<guid>http://localhost:1313/notas/octonautas-profesor-inkling/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Capitán Barnacles (Octonautas)</title>
-				<link>https://inksmael.com/notas/octonautas-capitan-barnacles/</link>
+				<link>http://localhost:1313/notas/octonautas-capitan-barnacles/</link>
 				<pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/octonautas-capitan-barnacles/</guid>
+				<guid>http://localhost:1313/notas/octonautas-capitan-barnacles/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Pua (Vaiana)</title>
-				<link>https://inksmael.com/notas/vaiana-pua/</link>
+				<link>http://localhost:1313/notas/vaiana-pua/</link>
 				<pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/vaiana-pua/</guid>
+				<guid>http://localhost:1313/notas/vaiana-pua/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Tamatoa (Vaiana)</title>
-				<link>https://inksmael.com/notas/vaiana-tamatoa/</link>
+				<link>http://localhost:1313/notas/vaiana-tamatoa/</link>
 				<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/vaiana-tamatoa/</guid>
+				<guid>http://localhost:1313/notas/vaiana-tamatoa/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Twilight Sparkle (My Little Pony)</title>
-				<link>https://inksmael.com/notas/my-little-pony-twilight-sparkle/</link>
+				<link>http://localhost:1313/notas/my-little-pony-twilight-sparkle/</link>
 				<pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/my-little-pony-twilight-sparkle/</guid>
+				<guid>http://localhost:1313/notas/my-little-pony-twilight-sparkle/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Te Kā (Vaiana)</title>
-				<link>https://inksmael.com/notas/vaiana-te-ka/</link>
+				<link>http://localhost:1313/notas/vaiana-te-ka/</link>
 				<pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/vaiana-te-ka/</guid>
+				<guid>http://localhost:1313/notas/vaiana-te-ka/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Te Fiti (Vaiana)</title>
-				<link>https://inksmael.com/notas/vaiana-te-fiti/</link>
+				<link>http://localhost:1313/notas/vaiana-te-fiti/</link>
 				<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/vaiana-te-fiti/</guid>
+				<guid>http://localhost:1313/notas/vaiana-te-fiti/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Spider-Ham</title>
-				<link>https://inksmael.com/notas/spider-ham/</link>
+				<link>http://localhost:1313/notas/spider-ham/</link>
 				<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/spider-ham/</guid>
+				<guid>http://localhost:1313/notas/spider-ham/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Gato de feria</title>
-				<link>https://inksmael.com/notas/gato-de-feria/</link>
+				<link>http://localhost:1313/notas/gato-de-feria/</link>
 				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gato-de-feria/</guid>
+				<guid>http://localhost:1313/notas/gato-de-feria/</guid>
 				<description>&lt;p&gt;Gato maravilloso con un gran repertorio de música.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lord Farquaad (Shrek)</title>
-				<link>https://inksmael.com/notas/shrek-lord-farquaad/</link>
+				<link>http://localhost:1313/notas/shrek-lord-farquaad/</link>
 				<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/shrek-lord-farquaad/</guid>
+				<guid>http://localhost:1313/notas/shrek-lord-farquaad/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Dragona (Shrek)</title>
-				<link>https://inksmael.com/notas/shrek-dragona/</link>
+				<link>http://localhost:1313/notas/shrek-dragona/</link>
 				<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/shrek-dragona/</guid>
+				<guid>http://localhost:1313/notas/shrek-dragona/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>La viejita (La tontería antes de acostar)</title>
-				<link>https://inksmael.com/notas/la-tonteria-de-antes-de-acostar-la-viejita/</link>
+				<link>http://localhost:1313/notas/la-tonteria-de-antes-de-acostar-la-viejita/</link>
 				<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/la-tonteria-de-antes-de-acostar-la-viejita/</guid>
+				<guid>http://localhost:1313/notas/la-tonteria-de-antes-de-acostar-la-viejita/</guid>
 				<description>&lt;p&gt;Hoy le toca el turno a la viejita.&lt;/p&gt;&#xA;&lt;p&gt;Te hace mucha gracia cuando me pongo una toalla o un paño sobre la cabeza y hago de viejita, diciéndote cosas como: &amp;ldquo;Ay, hija, cómo me duele la espalda&amp;rdquo; o &amp;ldquo;Ay, hija, ¿has visto mi bolso por aquí?&amp;rdquo;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>El elefante de la piscina (Camping CapFun)</title>
-				<link>https://inksmael.com/notas/camping-capfun-elefante/</link>
+				<link>http://localhost:1313/notas/camping-capfun-elefante/</link>
 				<pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/camping-capfun-elefante/</guid>
+				<guid>http://localhost:1313/notas/camping-capfun-elefante/</guid>
 				<description>&lt;p&gt;Al principio no querías entrar en el agua de lo fría que estaba, pero una vez te acomodaste al frío, ya no hubo quien te sacara de la piscina pequeña con el tobogán de elefante.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Fiesta de la espuma (Camping CapFun)</title>
-				<link>https://inksmael.com/notas/camping-capfun-fiesta-de-la-espuma/</link>
+				<link>http://localhost:1313/notas/camping-capfun-fiesta-de-la-espuma/</link>
 				<pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/camping-capfun-fiesta-de-la-espuma/</guid>
+				<guid>http://localhost:1313/notas/camping-capfun-fiesta-de-la-espuma/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Carabouille (Camping CapFun)</title>
-				<link>https://inksmael.com/notas/camping-capfun-carabouille/</link>
+				<link>http://localhost:1313/notas/camping-capfun-carabouille/</link>
 				<pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/camping-capfun-carabouille/</guid>
+				<guid>http://localhost:1313/notas/camping-capfun-carabouille/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Papi cumple 45</title>
-				<link>https://inksmael.com/notas/papi-cumple-45/</link>
+				<link>http://localhost:1313/notas/papi-cumple-45/</link>
 				<pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/papi-cumple-45/</guid>
+				<guid>http://localhost:1313/notas/papi-cumple-45/</guid>
 				<description>&lt;p&gt;Tarde de cumpleaños en casa, con decoración de dinosaurios y una trenza dulce rica rica.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Tardes de patio con agua</title>
-				<link>https://inksmael.com/notas/tardes-de-patio-con-agua/</link>
+				<link>http://localhost:1313/notas/tardes-de-patio-con-agua/</link>
 				<pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/tardes-de-patio-con-agua/</guid>
+				<guid>http://localhost:1313/notas/tardes-de-patio-con-agua/</guid>
 				<description>&lt;p&gt;Todavía es junio, pero ya hace tanto calor como si estuviéramos a finales de julio o principios de agosto. Por eso, todas las tardes, hasta que abran la piscina municipal, jugamos con la manguera y con la serpiente de agua que echa chorros (si consigue sobrevivir un día más).&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Siregata y Muffin disfrazados de Halloween (La casa de muñecas de Gabby)</title>
-				<link>https://inksmael.com/notas/gabby-halloween-siregata-muffin/</link>
+				<link>http://localhost:1313/notas/gabby-halloween-siregata-muffin/</link>
 				<pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gabby-halloween-siregata-muffin/</guid>
+				<guid>http://localhost:1313/notas/gabby-halloween-siregata-muffin/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Yogato y Pandy Patitas disfrazados de Halloween (La casa de muñecas de Gabby)</title>
-				<link>https://inksmael.com/notas/gabby-halloween-yogato-pandy-patitas/</link>
+				<link>http://localhost:1313/notas/gabby-halloween-yogato-pandy-patitas/</link>
 				<pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gabby-halloween-yogato-pandy-patitas/</guid>
+				<guid>http://localhost:1313/notas/gabby-halloween-yogato-pandy-patitas/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Pascal (Enredados)</title>
-				<link>https://inksmael.com/notas/enredados-pascal/</link>
+				<link>http://localhost:1313/notas/enredados-pascal/</link>
 				<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/enredados-pascal/</guid>
+				<guid>http://localhost:1313/notas/enredados-pascal/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ada, (Ada Magnifica, científica)</title>
-				<link>https://inksmael.com/notas/ada-magnifica-cientifica-ada/</link>
+				<link>http://localhost:1313/notas/ada-magnifica-cientifica-ada/</link>
 				<pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/ada-magnifica-cientifica-ada/</guid>
+				<guid>http://localhost:1313/notas/ada-magnifica-cientifica-ada/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>El mono (La tontería de antes de acostar)</title>
-				<link>https://inksmael.com/notas/la-tonteria-de-antes-de-acostar-mono/</link>
+				<link>http://localhost:1313/notas/la-tonteria-de-antes-de-acostar-mono/</link>
 				<pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/la-tonteria-de-antes-de-acostar-mono/</guid>
+				<guid>http://localhost:1313/notas/la-tonteria-de-antes-de-acostar-mono/</guid>
 				<description>&lt;p&gt;El mono que se come el plátano de la tontería de antes de acostar.&lt;/p&gt;&#xA;&lt;p&gt;Me encanta la gracia que te hace que me disfrace de mono para que te persiga cuando te pones el disfraz de plátano a la hora de hacer la tontería de la noche. Lo nerviosa que te pones, corriendo a la cama para subirte a ella y sentirte segura, como si fuera la casa del pilla-pilla.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Chumsley (La cada de muñecas de Gabby, la película)</title>
-				<link>https://inksmael.com/notas/gabby-chumsley/</link>
+				<link>http://localhost:1313/notas/gabby-chumsley/</link>
 				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gabby-chumsley/</guid>
+				<guid>http://localhost:1313/notas/gabby-chumsley/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Fido Dido</title>
-				<link>https://inksmael.com/notas/fido-dido/</link>
+				<link>http://localhost:1313/notas/fido-dido/</link>
 				<pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/fido-dido/</guid>
+				<guid>http://localhost:1313/notas/fido-dido/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Wally (Buscando a Wally)</title>
-				<link>https://inksmael.com/notas/buscando-a-wally-wally/</link>
+				<link>http://localhost:1313/notas/buscando-a-wally-wally/</link>
 				<pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/buscando-a-wally-wally/</guid>
+				<guid>http://localhost:1313/notas/buscando-a-wally-wally/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Expreso Pichirilo</title>
-				<link>https://inksmael.com/notas/expreso-pichirilo/</link>
+				<link>http://localhost:1313/notas/expreso-pichirilo/</link>
 				<pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/expreso-pichirilo/</guid>
+				<guid>http://localhost:1313/notas/expreso-pichirilo/</guid>
 				<description>&lt;p&gt;Después de cenar siempre hacías el expreso pichirilo con mamá, esperando a que yo hiciera la tontería del momento solo para hacerte reír.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Stormtrooper (Star Wars)</title>
-				<link>https://inksmael.com/notas/star-wars-stormtrooper/</link>
+				<link>http://localhost:1313/notas/star-wars-stormtrooper/</link>
 				<pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/star-wars-stormtrooper/</guid>
+				<guid>http://localhost:1313/notas/star-wars-stormtrooper/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Darth Vader (Star Wars)</title>
-				<link>https://inksmael.com/notas/star-wars-darth-vader/</link>
+				<link>http://localhost:1313/notas/star-wars-darth-vader/</link>
 				<pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/star-wars-darth-vader/</guid>
+				<guid>http://localhost:1313/notas/star-wars-darth-vader/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Vampirina (Vampirina)</title>
-				<link>https://inksmael.com/notas/vampirina-vampirina/</link>
+				<link>http://localhost:1313/notas/vampirina-vampirina/</link>
 				<pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/vampirina-vampirina/</guid>
+				<guid>http://localhost:1313/notas/vampirina-vampirina/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Grogu (The Mandalorian)</title>
-				<link>https://inksmael.com/notas/the-mandalorian-grogu/</link>
+				<link>http://localhost:1313/notas/the-mandalorian-grogu/</link>
 				<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/the-mandalorian-grogu/</guid>
+				<guid>http://localhost:1313/notas/the-mandalorian-grogu/</guid>
 				<description>&lt;p&gt;No estamos tan locos de haberte puesto ésta serie, pero siempre te hace mucha gracia baby Joda.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Sexy Abú</title>
-				<link>https://inksmael.com/notas/sexy-abu/</link>
+				<link>http://localhost:1313/notas/sexy-abu/</link>
 				<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/sexy-abu/</guid>
-				<description>&lt;p&gt;Visto en una de las atracciones de feria de San Isidro.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://inksmael.com/resources/img/misc/sexy-abu.jpg&#34; alt=&#34;El original Sexy Abú&#34;&gt;&lt;/p&gt;</description>
+				<guid>http://localhost:1313/notas/sexy-abu/</guid>
+				<description>&lt;p&gt;Visto en una de las atracciones de feria de San Isidro.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/resources/img/misc/sexy-abu.jpg&#34; alt=&#34;El original Sexy Abú&#34;&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Capitán Gantu (Lilo &amp; Stitch)</title>
-				<link>https://inksmael.com/notas/lilo-y-stitch-capitan-gantu/</link>
+				<link>http://localhost:1313/notas/lilo-y-stitch-capitan-gantu/</link>
 				<pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/lilo-y-stitch-capitan-gantu/</guid>
+				<guid>http://localhost:1313/notas/lilo-y-stitch-capitan-gantu/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Cobra Bubbles (Lilo &amp; Stitch)</title>
-				<link>https://inksmael.com/notas/lilo-y-stitch-cobra-bubbles/</link>
+				<link>http://localhost:1313/notas/lilo-y-stitch-cobra-bubbles/</link>
 				<pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/lilo-y-stitch-cobra-bubbles/</guid>
+				<guid>http://localhost:1313/notas/lilo-y-stitch-cobra-bubbles/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Banana (La tontería de antes de acostar)</title>
-				<link>https://inksmael.com/notas/la-tonteria-de-antes-de-acostar-banana/</link>
+				<link>http://localhost:1313/notas/la-tonteria-de-antes-de-acostar-banana/</link>
 				<pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/la-tonteria-de-antes-de-acostar-banana/</guid>
+				<guid>http://localhost:1313/notas/la-tonteria-de-antes-de-acostar-banana/</guid>
 				<description>&lt;p&gt;En otra entrega más de &amp;ldquo;La tontería de antes de acostar&amp;rdquo;, hoy le toca el turno a la banana de &amp;ldquo;Chicken Banana&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Aquí llevabas el disfraz de plátano que usé para tu graduación de la escuela infantil. Todavía me rio cuando por las noches te pones nerviosa pidiendo coger el disfraz y poniéndotelo para asustar a mamá, que estaba esperando escondida en tu cama.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Lilo Pelekai (Lilo &amp; Stitch)</title>
-				<link>https://inksmael.com/notas/lilo-y-stitch-lilo/</link>
+				<link>http://localhost:1313/notas/lilo-y-stitch-lilo/</link>
 				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/lilo-y-stitch-lilo/</guid>
+				<guid>http://localhost:1313/notas/lilo-y-stitch-lilo/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Que tengas un día miauravilloso</title>
-				<link>https://inksmael.com/notas/que-tengas-un-dia-miauravilloso/</link>
+				<link>http://localhost:1313/notas/que-tengas-un-dia-miauravilloso/</link>
 				<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/que-tengas-un-dia-miauravilloso/</guid>
+				<guid>http://localhost:1313/notas/que-tengas-un-dia-miauravilloso/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Stitch (Lilo &amp; Stitch)</title>
-				<link>https://inksmael.com/notas/lilo-y-stitch-stitch/</link>
+				<link>http://localhost:1313/notas/lilo-y-stitch-stitch/</link>
 				<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/lilo-y-stitch-stitch/</guid>
+				<guid>http://localhost:1313/notas/lilo-y-stitch-stitch/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Chicken Banana 2</title>
-				<link>https://inksmael.com/notas/chicken-banana-2/</link>
+				<link>http://localhost:1313/notas/chicken-banana-2/</link>
 				<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/chicken-banana-2/</guid>
+				<guid>http://localhost:1313/notas/chicken-banana-2/</guid>
 				<description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/ig7EKb6BrQk?si=E0cNDbAHbHTm0aRV&#34; title=&#34;Chicken Banana&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
 			</item>
 			<item>
 				<title>La abuela de Yogato (La cada de muñecas de Gabby)</title>
-				<link>https://inksmael.com/notas/gabby-abuela-yogato/</link>
+				<link>http://localhost:1313/notas/gabby-abuela-yogato/</link>
 				<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gabby-abuela-yogato/</guid>
+				<guid>http://localhost:1313/notas/gabby-abuela-yogato/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>La tontería de antes de acostar</title>
-				<link>https://inksmael.com/notas/la-tonteria-de-antes-de-acostar/</link>
+				<link>http://localhost:1313/notas/la-tonteria-de-antes-de-acostar/</link>
 				<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/la-tonteria-de-antes-de-acostar/</guid>
+				<guid>http://localhost:1313/notas/la-tonteria-de-antes-de-acostar/</guid>
 				<description>&lt;p&gt;Hubo un tiempo en que, antes de acostarnos, siempre llamabas desde la puerta de tu habitación para que subiera y me preguntabas qué tontería podíamos hacer para asustar a mamá, que esperaba en tu cama.&lt;/p&gt;&#xA;&lt;p&gt;Como aquella vez en que te pusiste la gorra de Batman al revés y el poncho de invierno de mamá. En una mano llevabas una zapatilla de estar por casa de Stitch y, en la otra, un rollo de papel de cocina gastado a modo de catalejo, mientras te reías camino de la cama para asustarla.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Chicken Banana</title>
-				<link>https://inksmael.com/notas/chicken-banana/</link>
+				<link>http://localhost:1313/notas/chicken-banana/</link>
 				<pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/chicken-banana/</guid>
+				<guid>http://localhost:1313/notas/chicken-banana/</guid>
 				<description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/ig7EKb6BrQk?si=E0cNDbAHbHTm0aRV&#34; title=&#34;Chicken Banana&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
 			</item>
 			<item>
 				<title>Kevin, Stuart y Bob (Gru: Mi villano favorito)</title>
-				<link>https://inksmael.com/notas/gru-mi-villano-favorito-kevin-stuart-bob/</link>
+				<link>http://localhost:1313/notas/gru-mi-villano-favorito-kevin-stuart-bob/</link>
 				<pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gru-mi-villano-favorito-kevin-stuart-bob/</guid>
+				<guid>http://localhost:1313/notas/gru-mi-villano-favorito-kevin-stuart-bob/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Edith (Gru: Mi villano favorito)</title>
-				<link>https://inksmael.com/notas/gru-mi-villano-favorito-edith/</link>
+				<link>http://localhost:1313/notas/gru-mi-villano-favorito-edith/</link>
 				<pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gru-mi-villano-favorito-edith/</guid>
+				<guid>http://localhost:1313/notas/gru-mi-villano-favorito-edith/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Margo (Gru: Mi villano favorito)</title>
-				<link>https://inksmael.com/notas/gru-mi-villano-favorito-margo/</link>
+				<link>http://localhost:1313/notas/gru-mi-villano-favorito-margo/</link>
 				<pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gru-mi-villano-favorito-margo/</guid>
+				<guid>http://localhost:1313/notas/gru-mi-villano-favorito-margo/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Dr. Nefario (Gru: Mi villano favorito)</title>
-				<link>https://inksmael.com/notas/gru-mi-villano-favorito-dr-nefario/</link>
+				<link>http://localhost:1313/notas/gru-mi-villano-favorito-dr-nefario/</link>
 				<pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gru-mi-villano-favorito-dr-nefario/</guid>
+				<guid>http://localhost:1313/notas/gru-mi-villano-favorito-dr-nefario/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Agnes (Gru: Mi villano favorito)</title>
-				<link>https://inksmael.com/notas/gru-mi-villano-favorito-agnes/</link>
+				<link>http://localhost:1313/notas/gru-mi-villano-favorito-agnes/</link>
 				<pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gru-mi-villano-favorito-agnes/</guid>
+				<guid>http://localhost:1313/notas/gru-mi-villano-favorito-agnes/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Gru (Gru: Mi villano favorito)</title>
-				<link>https://inksmael.com/notas/gru-mi-villano-favorito-gru/</link>
+				<link>http://localhost:1313/notas/gru-mi-villano-favorito-gru/</link>
 				<pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gru-mi-villano-favorito-gru/</guid>
+				<guid>http://localhost:1313/notas/gru-mi-villano-favorito-gru/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Marty, el gato fiestero (La casa de muñecas de Gabby)</title>
-				<link>https://inksmael.com/notas/gabby-marty/</link>
+				<link>http://localhost:1313/notas/gabby-marty/</link>
 				<pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gabby-marty/</guid>
+				<guid>http://localhost:1313/notas/gabby-marty/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Hadigata (La cada de muñecas de Gabby)</title>
-				<link>https://inksmael.com/notas/gabby-hadigata/</link>
+				<link>http://localhost:1313/notas/gabby-hadigata/</link>
 				<pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gabby-hadigata/</guid>
+				<guid>http://localhost:1313/notas/gabby-hadigata/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Foquita feliz</title>
-				<link>https://inksmael.com/notas/foquita-feliz/</link>
+				<link>http://localhost:1313/notas/foquita-feliz/</link>
 				<pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/foquita-feliz/</guid>
+				<guid>http://localhost:1313/notas/foquita-feliz/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Mamá y bebé Box (La cada de muñecas de Gabby)</title>
-				<link>https://inksmael.com/notas/gabby-mama-y-bebe-box/</link>
+				<link>http://localhost:1313/notas/gabby-mama-y-bebe-box/</link>
 				<pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gabby-mama-y-bebe-box/</guid>
+				<guid>http://localhost:1313/notas/gabby-mama-y-bebe-box/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sueñigata (La cada de muñecas de Gabby)</title>
-				<link>https://inksmael.com/notas/gabby-suenigata/</link>
+				<link>http://localhost:1313/notas/gabby-suenigata/</link>
 				<pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gabby-suenigata/</guid>
+				<guid>http://localhost:1313/notas/gabby-suenigata/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>DJ Capucha (La cada de muñecas de Gabby)</title>
-				<link>https://inksmael.com/notas/gabby-dj-capucha/</link>
+				<link>http://localhost:1313/notas/gabby-dj-capucha/</link>
 				<pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gabby-dj-capucha/</guid>
+				<guid>http://localhost:1313/notas/gabby-dj-capucha/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Carlita (La cada de muñecas de Gabby)</title>
-				<link>https://inksmael.com/notas/gabby-carlita/</link>
+				<link>http://localhost:1313/notas/gabby-carlita/</link>
 				<pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gabby-carlita/</guid>
+				<guid>http://localhost:1313/notas/gabby-carlita/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Pandy Patitas (La cada de muñecas de Gabby)</title>
-				<link>https://inksmael.com/notas/gabby-pandi-patitas/</link>
+				<link>http://localhost:1313/notas/gabby-pandi-patitas/</link>
 				<pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gabby-pandi-patitas/</guid>
+				<guid>http://localhost:1313/notas/gabby-pandi-patitas/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Muffin (La cada de muñecas de Gabby)</title>
-				<link>https://inksmael.com/notas/gabby-muffin/</link>
+				<link>http://localhost:1313/notas/gabby-muffin/</link>
 				<pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gabby-muffin/</guid>
+				<guid>http://localhost:1313/notas/gabby-muffin/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Yogato (La cada de muñecas de Gabby)</title>
-				<link>https://inksmael.com/notas/gabby-yogato/</link>
+				<link>http://localhost:1313/notas/gabby-yogato/</link>
 				<pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gabby-yogato/</guid>
+				<guid>http://localhost:1313/notas/gabby-yogato/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Lord Perro Salchicha</title>
-				<link>https://inksmael.com/notas/lord-perro-salchicha/</link>
+				<link>http://localhost:1313/notas/lord-perro-salchicha/</link>
 				<pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/lord-perro-salchicha/</guid>
+				<guid>http://localhost:1313/notas/lord-perro-salchicha/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Siregata (La cada de muñecas de Gabby)</title>
-				<link>https://inksmael.com/notas/gabby-siregata/</link>
+				<link>http://localhost:1313/notas/gabby-siregata/</link>
 				<pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gabby-siregata/</guid>
+				<guid>http://localhost:1313/notas/gabby-siregata/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Gabby (La cada de muñecas de Gabby)</title>
-				<link>https://inksmael.com/notas/gabby-gabby/</link>
+				<link>http://localhost:1313/notas/gabby-gabby/</link>
 				<pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/gabby-gabby/</guid>
+				<guid>http://localhost:1313/notas/gabby-gabby/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Titus (Hoopers)</title>
-				<link>https://inksmael.com/notas/hoopers-titus-gusano/</link>
+				<link>http://localhost:1313/notas/hoopers-titus-gusano/</link>
 				<pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/hoopers-titus-gusano/</guid>
+				<guid>http://localhost:1313/notas/hoopers-titus-gusano/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Diane (Hoopers)</title>
-				<link>https://inksmael.com/notas/hoopers-diane-tiburon/</link>
+				<link>http://localhost:1313/notas/hoopers-diane-tiburon/</link>
 				<pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/hoopers-diane-tiburon/</guid>
+				<guid>http://localhost:1313/notas/hoopers-diane-tiburon/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Loaf (Hoopers)</title>
-				<link>https://inksmael.com/notas/hoopers-loaf/</link>
+				<link>http://localhost:1313/notas/hoopers-loaf/</link>
 				<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/hoopers-loaf/</guid>
+				<guid>http://localhost:1313/notas/hoopers-loaf/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Titus robot (Hoopers)</title>
-				<link>https://inksmael.com/notas/hoopers-titus-robot/</link>
+				<link>http://localhost:1313/notas/hoopers-titus-robot/</link>
 				<pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/hoopers-titus-robot/</guid>
+				<guid>http://localhost:1313/notas/hoopers-titus-robot/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Alcalde Jerry (Hoopers)</title>
-				<link>https://inksmael.com/notas/hoopers-alcalde-jerry/</link>
+				<link>http://localhost:1313/notas/hoopers-alcalde-jerry/</link>
 				<pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/hoopers-alcalde-jerry/</guid>
+				<guid>http://localhost:1313/notas/hoopers-alcalde-jerry/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ellen (Hoopers)</title>
-				<link>https://inksmael.com/notas/hoopers-ellen/</link>
+				<link>http://localhost:1313/notas/hoopers-ellen/</link>
 				<pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/hoopers-ellen/</guid>
+				<guid>http://localhost:1313/notas/hoopers-ellen/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Mabel Tanaka (Hoopers)</title>
-				<link>https://inksmael.com/notas/hoopers-mabel-tanaka/</link>
+				<link>http://localhost:1313/notas/hoopers-mabel-tanaka/</link>
 				<pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/hoopers-mabel-tanaka/</guid>
+				<guid>http://localhost:1313/notas/hoopers-mabel-tanaka/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Tom (Hoopers)</title>
-				<link>https://inksmael.com/notas/hoopers-tom/</link>
+				<link>http://localhost:1313/notas/hoopers-tom/</link>
 				<pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/hoopers-tom/</guid>
+				<guid>http://localhost:1313/notas/hoopers-tom/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Rey George (Hoopers)</title>
-				<link>https://inksmael.com/notas/hoopers-rey-george/</link>
+				<link>http://localhost:1313/notas/hoopers-rey-george/</link>
 				<pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/hoopers-rey-george/</guid>
+				<guid>http://localhost:1313/notas/hoopers-rey-george/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Mabel castora (Hoopers)</title>
-				<link>https://inksmael.com/notas/hoopers-mabel-castor/</link>
+				<link>http://localhost:1313/notas/hoopers-mabel-castor/</link>
 				<pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/hoopers-mabel-castor/</guid>
+				<guid>http://localhost:1313/notas/hoopers-mabel-castor/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Benedic (Los Bridgerton)</title>
-				<link>https://inksmael.com/notas/bridgerton-benedic/</link>
+				<link>http://localhost:1313/notas/bridgerton-benedic/</link>
 				<pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/bridgerton-benedic/</guid>
+				<guid>http://localhost:1313/notas/bridgerton-benedic/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Flynn Rider (Enredados)</title>
-				<link>https://inksmael.com/notas/enredados-flynn-rider/</link>
+				<link>http://localhost:1313/notas/enredados-flynn-rider/</link>
 				<pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/enredados-flynn-rider/</guid>
+				<guid>http://localhost:1313/notas/enredados-flynn-rider/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Rapunzel (Enredados)</title>
-				<link>https://inksmael.com/notas/enredados-rapunzel/</link>
+				<link>http://localhost:1313/notas/enredados-rapunzel/</link>
 				<pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/enredados-rapunzel/</guid>
+				<guid>http://localhost:1313/notas/enredados-rapunzel/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Vicealcaldesa Bellwether (Zootrópolis)</title>
-				<link>https://inksmael.com/notas/zootropolis-vicealcaldesa-bellwether/</link>
+				<link>http://localhost:1313/notas/zootropolis-vicealcaldesa-bellwether/</link>
 				<pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/zootropolis-vicealcaldesa-bellwether/</guid>
+				<guid>http://localhost:1313/notas/zootropolis-vicealcaldesa-bellwether/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Koslov (Zootrópolis)</title>
-				<link>https://inksmael.com/notas/zootropolis-koslov/</link>
+				<link>http://localhost:1313/notas/zootropolis-koslov/</link>
 				<pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/zootropolis-koslov/</guid>
+				<guid>http://localhost:1313/notas/zootropolis-koslov/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Mr. Big (Zootrópolis)</title>
-				<link>https://inksmael.com/notas/zootropolis-mr-big/</link>
+				<link>http://localhost:1313/notas/zootropolis-mr-big/</link>
 				<pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/zootropolis-mr-big/</guid>
+				<guid>http://localhost:1313/notas/zootropolis-mr-big/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Gazelle (Zootrópolis)</title>
-				<link>https://inksmael.com/notas/zootropolis-gazelle/</link>
+				<link>http://localhost:1313/notas/zootropolis-gazelle/</link>
 				<pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/zootropolis-gazelle/</guid>
+				<guid>http://localhost:1313/notas/zootropolis-gazelle/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Fru Fru (Zootrópolis)</title>
-				<link>https://inksmael.com/notas/zootropolis-fru-fru/</link>
+				<link>http://localhost:1313/notas/zootropolis-fru-fru/</link>
 				<pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/zootropolis-fru-fru/</guid>
+				<guid>http://localhost:1313/notas/zootropolis-fru-fru/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Duke Weaselton (Zootrópolis)</title>
-				<link>https://inksmael.com/notas/zootropolis-duke-weaselton/</link>
+				<link>http://localhost:1313/notas/zootropolis-duke-weaselton/</link>
 				<pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/zootropolis-duke-weaselton/</guid>
+				<guid>http://localhost:1313/notas/zootropolis-duke-weaselton/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Benjamin y Bogo (Zootrópolis)</title>
-				<link>https://inksmael.com/notas/zootropolis-benjamin-bogo-bailarines/</link>
+				<link>http://localhost:1313/notas/zootropolis-benjamin-bogo-bailarines/</link>
 				<pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/zootropolis-benjamin-bogo-bailarines/</guid>
+				<guid>http://localhost:1313/notas/zootropolis-benjamin-bogo-bailarines/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Benjamin Clawhauser (Zootrópolis)</title>
-				<link>https://inksmael.com/notas/zootropolis-benjamin-clawhauser/</link>
+				<link>http://localhost:1313/notas/zootropolis-benjamin-clawhauser/</link>
 				<pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/zootropolis-benjamin-clawhauser/</guid>
+				<guid>http://localhost:1313/notas/zootropolis-benjamin-clawhauser/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Reina Carlota (Los Bridgerton)</title>
-				<link>https://inksmael.com/notas/bridgerton-reina-carlota/</link>
+				<link>http://localhost:1313/notas/bridgerton-reina-carlota/</link>
 				<pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/bridgerton-reina-carlota/</guid>
+				<guid>http://localhost:1313/notas/bridgerton-reina-carlota/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 23/02/2026</title>
-				<link>https://inksmael.com/notas/2026-02-23/</link>
+				<title>Butternut y Squash (Hoja al viento)</title>
+				<link>http://localhost:1313/notas/hoja-al-viento-butternut-squash/</link>
 				<pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-02-23/</guid>
+				<guid>http://localhost:1313/notas/hoja-al-viento-butternut-squash/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 20/02/2026</title>
-				<link>https://inksmael.com/notas/2026-02-20/</link>
+				<title>Anna (Frozen: El reino del hielo)</title>
+				<link>http://localhost:1313/notas/frozen-anna/</link>
 				<pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-02-20/</guid>
+				<guid>http://localhost:1313/notas/frozen-anna/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Finnick (Zootrópolis)</title>
-				<link>https://inksmael.com/notas/zootropolis-finnick/</link>
+				<link>http://localhost:1313/notas/zootropolis-finnick/</link>
 				<pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/zootropolis-finnick/</guid>
+				<guid>http://localhost:1313/notas/zootropolis-finnick/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Judy Hopps (Zootrópolis)</title>
-				<link>https://inksmael.com/notas/zootropolis-judy-hopps-de-paisano/</link>
+				<link>http://localhost:1313/notas/zootropolis-judy-hopps-de-paisano/</link>
 				<pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/zootropolis-judy-hopps-de-paisano/</guid>
+				<guid>http://localhost:1313/notas/zootropolis-judy-hopps-de-paisano/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 17/02/2026</title>
-				<link>https://inksmael.com/notas/2026-02-17/</link>
+				<title>Flop (Bing y sus amigos)</title>
+				<link>http://localhost:1313/notas/bing-flop/</link>
 				<pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-02-17/</guid>
+				<guid>http://localhost:1313/notas/bing-flop/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 16/02/2026</title>
-				<link>https://inksmael.com/notas/2026-02-16/</link>
+				<title>Nemo (Buscando a Nemo)</title>
+				<link>http://localhost:1313/notas/buscando-a-nemo-nemo/</link>
 				<pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-02-16/</guid>
+				<guid>http://localhost:1313/notas/buscando-a-nemo-nemo/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 13/02/2026</title>
-				<link>https://inksmael.com/notas/2026-02-13/</link>
+				<title>Bingo (Bluey)</title>
+				<link>http://localhost:1313/notas/bluey-bingo/</link>
 				<pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-02-13/</guid>
+				<guid>http://localhost:1313/notas/bluey-bingo/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Flash Slothmore (Zootrópolis)</title>
-				<link>https://inksmael.com/notas/zootropolis-flash-slothmore/</link>
+				<link>http://localhost:1313/notas/zootropolis-flash-slothmore/</link>
 				<pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/zootropolis-flash-slothmore/</guid>
+				<guid>http://localhost:1313/notas/zootropolis-flash-slothmore/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bogo (Zootrópolis)</title>
-				<link>https://inksmael.com/notas/zootropolis-bogo/</link>
+				<link>http://localhost:1313/notas/zootropolis-bogo/</link>
 				<pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/zootropolis-bogo/</guid>
+				<guid>http://localhost:1313/notas/zootropolis-bogo/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 10/02/2026</title>
-				<link>https://inksmael.com/notas/2026-02-10/</link>
+				<title>Pez abisal</title>
+				<link>http://localhost:1313/notas/pez-abisal/</link>
 				<pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-02-10/</guid>
+				<guid>http://localhost:1313/notas/pez-abisal/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nick Wilde (Zootrópolis)</title>
-				<link>https://inksmael.com/notas/zootropolis-nick-wilde/</link>
+				<link>http://localhost:1313/notas/zootropolis-nick-wilde/</link>
 				<pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/zootropolis-nick-wilde/</guid>
+				<guid>http://localhost:1313/notas/zootropolis-nick-wilde/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Judy Hopps (Zootrópolis)</title>
-				<link>https://inksmael.com/notas/zootropolis-judy-hopps/</link>
+				<link>http://localhost:1313/notas/zootropolis-judy-hopps/</link>
 				<pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/zootropolis-judy-hopps/</guid>
+				<guid>http://localhost:1313/notas/zootropolis-judy-hopps/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 05/02/2026</title>
-				<link>https://inksmael.com/notas/2026-02-05/</link>
+				<title>Zoey (Las guerreras K-pop)</title>
+				<link>http://localhost:1313/notas/las-guerreras-kpop-zoey/</link>
 				<pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-02-05/</guid>
+				<guid>http://localhost:1313/notas/las-guerreras-kpop-zoey/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 04/02/2026</title>
-				<link>https://inksmael.com/notas/2026-02-04/</link>
+				<title>Bing (Bing y sus amigos)</title>
+				<link>http://localhost:1313/notas/bing-bing/</link>
 				<pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-02-04/</guid>
+				<guid>http://localhost:1313/notas/bing-bing/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 03/02/2026</title>
-				<link>https://inksmael.com/notas/2026-02-03/</link>
+				<title>Mira (Las guerreras K-pop)</title>
+				<link>http://localhost:1313/notas/las-guerreras-kpop-mira/</link>
 				<pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-02-03/</guid>
+				<guid>http://localhost:1313/notas/las-guerreras-kpop-mira/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Gary De&#39;Snake (Zootrópolis 2)</title>
-				<link>https://inksmael.com/notas/zootropolis2-gary-de-snake/</link>
+				<link>http://localhost:1313/notas/zootropolis2-gary-de-snake/</link>
 				<pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/zootropolis2-gary-de-snake/</guid>
+				<guid>http://localhost:1313/notas/zootropolis2-gary-de-snake/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 30/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-30/</link>
+				<title>Bluey (Bluey)</title>
+				<link>http://localhost:1313/notas/bluey-bluey/</link>
 				<pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-30/</guid>
+				<guid>http://localhost:1313/notas/bluey-bluey/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 29/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-29/</link>
+				<title>Kakamoras (Vaiana)</title>
+				<link>http://localhost:1313/notas/vaiana-kakamoras/</link>
 				<pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-29/</guid>
+				<guid>http://localhost:1313/notas/vaiana-kakamoras/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 28/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-28/</link>
+				<title>Zucchini (Hoja al viento)</title>
+				<link>http://localhost:1313/notas/hoja-al-viento-zucchini/</link>
 				<pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-28/</guid>
+				<guid>http://localhost:1313/notas/hoja-al-viento-zucchini/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 27/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-27/</link>
+				<title>Daniela (Daniela Pirata)</title>
+				<link>http://localhost:1313/notas/daniela-pirata-daniela/</link>
 				<pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-27/</guid>
+				<guid>http://localhost:1313/notas/daniela-pirata-daniela/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 26/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-26/</link>
+				<title>Rumi (Las guerreras K-pop)</title>
+				<link>http://localhost:1313/notas/las-guerreras-kpop-rumi/</link>
 				<pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-26/</guid>
+				<guid>http://localhost:1313/notas/las-guerreras-kpop-rumi/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 23/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-23/</link>
+				<title>Mike (¡Canta!)</title>
+				<link>http://localhost:1313/notas/canta-mike/</link>
 				<pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-23/</guid>
+				<guid>http://localhost:1313/notas/canta-mike/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 22/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-22/</link>
+				<title>Buddy (Toy Story)</title>
+				<link>http://localhost:1313/notas/toy-story-buddy/</link>
 				<pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-22/</guid>
+				<guid>http://localhost:1313/notas/toy-story-buddy/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 21/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-21/</link>
+				<title>Buster Moon (¡Canta!)</title>
+				<link>http://localhost:1313/notas/canta-buster-moon/</link>
 				<pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-21/</guid>
+				<guid>http://localhost:1313/notas/canta-buster-moon/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 20/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-20/</link>
+				<title>Rex (Toy Story)</title>
+				<link>http://localhost:1313/notas/toy-story-rex/</link>
 				<pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-20/</guid>
+				<guid>http://localhost:1313/notas/toy-story-rex/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 19/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-19/</link>
+				<title>Rubble (La Patrulla Canina)</title>
+				<link>http://localhost:1313/notas/patrulla-canina-rubble/</link>
 				<pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-19/</guid>
+				<guid>http://localhost:1313/notas/patrulla-canina-rubble/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 16/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-16/</link>
+				<title>Ash (¡Canta!)</title>
+				<link>http://localhost:1313/notas/canta-ash/</link>
 				<pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-16/</guid>
+				<guid>http://localhost:1313/notas/canta-ash/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 15/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-15/</link>
+				<title>Señor Patata (Toy Story)</title>
+				<link>http://localhost:1313/notas/toy-story-mr-patata/</link>
 				<pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-15/</guid>
+				<guid>http://localhost:1313/notas/toy-story-mr-patata/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 14/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-14/</link>
+				<link>http://localhost:1313/notas/2026-01-14/</link>
 				<pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-14/</guid>
+				<guid>http://localhost:1313/notas/2026-01-14/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 13/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-13/</link>
+				<link>http://localhost:1313/notas/2026-01-13/</link>
 				<pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-13/</guid>
+				<guid>http://localhost:1313/notas/2026-01-13/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 12/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-12/</link>
+				<link>http://localhost:1313/notas/2026-01-12/</link>
 				<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-12/</guid>
+				<guid>http://localhost:1313/notas/2026-01-12/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 09/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-09/</link>
+				<link>http://localhost:1313/notas/2026-01-09/</link>
 				<pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-09/</guid>
+				<guid>http://localhost:1313/notas/2026-01-09/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Pusheen adormilado</title>
-				<link>https://inksmael.com/notas/pusheen-adormilado/</link>
+				<link>http://localhost:1313/notas/pusheen-adormilado/</link>
 				<pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/pusheen-adormilado/</guid>
+				<guid>http://localhost:1313/notas/pusheen-adormilado/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 08/01/2026</title>
-				<link>https://inksmael.com/notas/2026-01-08/</link>
+				<link>http://localhost:1313/notas/2026-01-08/</link>
 				<pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2026-01-08/</guid>
+				<guid>http://localhost:1313/notas/2026-01-08/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 19/12/2025</title>
-				<link>https://inksmael.com/notas/2025-12-19/</link>
+				<link>http://localhost:1313/notas/2025-12-19/</link>
 				<pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-12-19/</guid>
+				<guid>http://localhost:1313/notas/2025-12-19/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Asno (Shrek)</title>
-				<link>https://inksmael.com/notas/shrek-asno/</link>
+				<link>http://localhost:1313/notas/shrek-asno/</link>
 				<pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/shrek-asno/</guid>
+				<guid>http://localhost:1313/notas/shrek-asno/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Gato con botas (Shrek)</title>
-				<link>https://inksmael.com/notas/shrek-gato-con-botas/</link>
+				<link>http://localhost:1313/notas/shrek-gato-con-botas/</link>
 				<pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/shrek-gato-con-botas/</guid>
+				<guid>http://localhost:1313/notas/shrek-gato-con-botas/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Fiona (Shrek)</title>
-				<link>https://inksmael.com/notas/shrek-fiona/</link>
+				<link>http://localhost:1313/notas/shrek-fiona/</link>
 				<pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/shrek-fiona/</guid>
+				<guid>http://localhost:1313/notas/shrek-fiona/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Pusheen tostada</title>
-				<link>https://inksmael.com/notas/pusheen-tostada/</link>
+				<link>http://localhost:1313/notas/pusheen-tostada/</link>
 				<pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/pusheen-tostada/</guid>
+				<guid>http://localhost:1313/notas/pusheen-tostada/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 15/12/2025</title>
-				<link>https://inksmael.com/notas/2025-12-15/</link>
+				<link>http://localhost:1313/notas/2025-12-15/</link>
 				<pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-12-15/</guid>
+				<guid>http://localhost:1313/notas/2025-12-15/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 11/12/2025</title>
-				<link>https://inksmael.com/notas/2025-12-11/</link>
+				<link>http://localhost:1313/notas/2025-12-11/</link>
 				<pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-12-11/</guid>
+				<guid>http://localhost:1313/notas/2025-12-11/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 10/12/2025</title>
-				<link>https://inksmael.com/notas/2025-12-10/</link>
+				<link>http://localhost:1313/notas/2025-12-10/</link>
 				<pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-12-10/</guid>
+				<guid>http://localhost:1313/notas/2025-12-10/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 09/12/2025</title>
-				<link>https://inksmael.com/notas/2025-12-09/</link>
+				<link>http://localhost:1313/notas/2025-12-09/</link>
 				<pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-12-09/</guid>
+				<guid>http://localhost:1313/notas/2025-12-09/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 06/12/2025</title>
-				<link>https://inksmael.com/notas/2025-12-06_1/</link>
+				<link>http://localhost:1313/notas/2025-12-06_1/</link>
 				<pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-12-06_1/</guid>
+				<guid>http://localhost:1313/notas/2025-12-06_1/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 06/12/2025</title>
-				<link>https://inksmael.com/notas/2025-12-06_2/</link>
+				<link>http://localhost:1313/notas/2025-12-06_2/</link>
 				<pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-12-06_2/</guid>
+				<guid>http://localhost:1313/notas/2025-12-06_2/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 06/12/2025</title>
-				<link>https://inksmael.com/notas/2025-12-06_3/</link>
+				<link>http://localhost:1313/notas/2025-12-06_3/</link>
 				<pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-12-06_3/</guid>
+				<guid>http://localhost:1313/notas/2025-12-06_3/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 06/12/2025</title>
-				<link>https://inksmael.com/notas/2025-12-06_4/</link>
+				<link>http://localhost:1313/notas/2025-12-06_4/</link>
 				<pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-12-06_4/</guid>
+				<guid>http://localhost:1313/notas/2025-12-06_4/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 06/12/2025</title>
-				<link>https://inksmael.com/notas/2025-12-06_5/</link>
+				<link>http://localhost:1313/notas/2025-12-06_5/</link>
 				<pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-12-06_5/</guid>
+				<guid>http://localhost:1313/notas/2025-12-06_5/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 05/12/2025</title>
-				<link>https://inksmael.com/notas/2025-12-05/</link>
+				<link>http://localhost:1313/notas/2025-12-05/</link>
 				<pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-12-05/</guid>
+				<guid>http://localhost:1313/notas/2025-12-05/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 04/12/2025</title>
-				<link>https://inksmael.com/notas/2025-12-04/</link>
+				<link>http://localhost:1313/notas/2025-12-04/</link>
 				<pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-12-04/</guid>
+				<guid>http://localhost:1313/notas/2025-12-04/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Shrek (Shrek)</title>
-				<link>https://inksmael.com/notas/shrek-shrek/</link>
+				<link>http://localhost:1313/notas/shrek-shrek/</link>
 				<pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/shrek-shrek/</guid>
+				<guid>http://localhost:1313/notas/shrek-shrek/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 02/12/2025</title>
-				<link>https://inksmael.com/notas/2025-12-02/</link>
+				<link>http://localhost:1313/notas/2025-12-02/</link>
 				<pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-12-02/</guid>
+				<guid>http://localhost:1313/notas/2025-12-02/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 01/12/2025</title>
-				<link>https://inksmael.com/notas/2025-12-01/</link>
+				<link>http://localhost:1313/notas/2025-12-01/</link>
 				<pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-12-01/</guid>
+				<guid>http://localhost:1313/notas/2025-12-01/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 28/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-28/</link>
+				<link>http://localhost:1313/notas/2025-11-28/</link>
 				<pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-28/</guid>
+				<guid>http://localhost:1313/notas/2025-11-28/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 27/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-27/</link>
+				<link>http://localhost:1313/notas/2025-11-27/</link>
 				<pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-27/</guid>
+				<guid>http://localhost:1313/notas/2025-11-27/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Heihei (Vaiana)</title>
-				<link>https://inksmael.com/notas/vaiana-heihei/</link>
+				<link>http://localhost:1313/notas/vaiana-heihei/</link>
 				<pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/vaiana-heihei/</guid>
+				<guid>http://localhost:1313/notas/vaiana-heihei/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 25/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-25/</link>
+				<link>http://localhost:1313/notas/2025-11-25/</link>
 				<pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-25/</guid>
+				<guid>http://localhost:1313/notas/2025-11-25/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Maui (Vaiana)</title>
-				<link>https://inksmael.com/notas/vaiana-maui/</link>
+				<link>http://localhost:1313/notas/vaiana-maui/</link>
 				<pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/vaiana-maui/</guid>
+				<guid>http://localhost:1313/notas/vaiana-maui/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 22/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-22/</link>
+				<link>http://localhost:1313/notas/2025-11-22/</link>
 				<pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-22/</guid>
+				<guid>http://localhost:1313/notas/2025-11-22/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 21/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-21/</link>
+				<link>http://localhost:1313/notas/2025-11-21/</link>
 				<pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-21/</guid>
+				<guid>http://localhost:1313/notas/2025-11-21/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Vaiana (Vaiana)</title>
-				<link>https://inksmael.com/notas/vaiana-vaiana/</link>
+				<link>http://localhost:1313/notas/vaiana-vaiana/</link>
 				<pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/vaiana-vaiana/</guid>
+				<guid>http://localhost:1313/notas/vaiana-vaiana/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 19/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-19/</link>
+				<link>http://localhost:1313/notas/2025-11-19/</link>
 				<pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-19/</guid>
+				<guid>http://localhost:1313/notas/2025-11-19/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 18/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-18/</link>
+				<link>http://localhost:1313/notas/2025-11-18/</link>
 				<pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-18/</guid>
+				<guid>http://localhost:1313/notas/2025-11-18/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 17/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-17/</link>
+				<link>http://localhost:1313/notas/2025-11-17/</link>
 				<pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-17/</guid>
+				<guid>http://localhost:1313/notas/2025-11-17/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 14/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-14/</link>
+				<link>http://localhost:1313/notas/2025-11-14/</link>
 				<pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-14/</guid>
+				<guid>http://localhost:1313/notas/2025-11-14/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 13/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-13/</link>
+				<link>http://localhost:1313/notas/2025-11-13/</link>
 				<pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-13/</guid>
+				<guid>http://localhost:1313/notas/2025-11-13/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 12/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-12/</link>
+				<link>http://localhost:1313/notas/2025-11-12/</link>
 				<pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-12/</guid>
+				<guid>http://localhost:1313/notas/2025-11-12/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 11/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-11/</link>
+				<link>http://localhost:1313/notas/2025-11-11/</link>
 				<pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-11/</guid>
+				<guid>http://localhost:1313/notas/2025-11-11/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 10/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-10/</link>
+				<link>http://localhost:1313/notas/2025-11-10/</link>
 				<pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-10/</guid>
+				<guid>http://localhost:1313/notas/2025-11-10/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 07/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-07/</link>
+				<link>http://localhost:1313/notas/2025-11-07/</link>
 				<pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-07/</guid>
+				<guid>http://localhost:1313/notas/2025-11-07/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 06/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-06/</link>
+				<link>http://localhost:1313/notas/2025-11-06/</link>
 				<pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-06/</guid>
+				<guid>http://localhost:1313/notas/2025-11-06/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 05/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-05/</link>
+				<link>http://localhost:1313/notas/2025-11-05/</link>
 				<pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-05/</guid>
+				<guid>http://localhost:1313/notas/2025-11-05/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 04/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-04/</link>
+				<link>http://localhost:1313/notas/2025-11-04/</link>
 				<pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-04/</guid>
+				<guid>http://localhost:1313/notas/2025-11-04/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 03/11/2025</title>
-				<link>https://inksmael.com/notas/2025-11-03/</link>
+				<link>http://localhost:1313/notas/2025-11-03/</link>
 				<pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-11-03/</guid>
+				<guid>http://localhost:1313/notas/2025-11-03/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 31/10/2025</title>
-				<link>https://inksmael.com/notas/2025-10-31/</link>
+				<link>http://localhost:1313/notas/2025-10-31/</link>
 				<pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-10-31/</guid>
+				<guid>http://localhost:1313/notas/2025-10-31/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 30/10/2025</title>
-				<link>https://inksmael.com/notas/2025-10-30/</link>
+				<link>http://localhost:1313/notas/2025-10-30/</link>
 				<pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-10-30/</guid>
+				<guid>http://localhost:1313/notas/2025-10-30/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nota del 29/10/2025</title>
-				<link>https://inksmael.com/notas/2025-10-29/</link>
+				<link>http://localhost:1313/notas/2025-10-29/</link>
 				<pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-				<guid>https://inksmael.com/notas/2025-10-29/</guid>
+				<guid>http://localhost:1313/notas/2025-10-29/</guid>
 				<description></description>
 			</item>
 	</channel>
