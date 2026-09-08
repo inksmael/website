@@ -959,31 +959,31 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 14/01/2026</title>
-				<link>http://localhost:1313/notas/2026-01-14/</link>
+				<title>Púas (Hoja al viento)</title>
+				<link>http://localhost:1313/notas/hoja-al-viento-puas/</link>
 				<pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/notas/2026-01-14/</guid>
+				<guid>http://localhost:1313/notas/hoja-al-viento-puas/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 13/01/2026</title>
-				<link>http://localhost:1313/notas/2026-01-13/</link>
+				<title>Rosita (¡Cánta!)</title>
+				<link>http://localhost:1313/notas/canta-rosita/</link>
 				<pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/notas/2026-01-13/</guid>
+				<guid>http://localhost:1313/notas/canta-rosita/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 12/01/2026</title>
-				<link>http://localhost:1313/notas/2026-01-12/</link>
+				<title>Elsa (Frozen: El reino del hielo)</title>
+				<link>http://localhost:1313/notas/frozen-elsa/</link>
 				<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/notas/2026-01-12/</guid>
+				<guid>http://localhost:1313/notas/frozen-elsa/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 09/01/2026</title>
-				<link>http://localhost:1313/notas/2026-01-09/</link>
+				<title>Johnny</title>
+				<link>http://localhost:1313/notas/canta-johnny/</link>
 				<pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/notas/2026-01-09/</guid>
+				<guid>http://localhost:1313/notas/canta-johnny/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -994,10 +994,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Nota del 08/01/2026</title>
-				<link>http://localhost:1313/notas/2026-01-08/</link>
+				<title>Comienza el cole (3 años)</title>
+				<link>http://localhost:1313/notas/comienza-cole-3/</link>
 				<pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/notas/2026-01-08/</guid>
+				<guid>http://localhost:1313/notas/comienza-cole-3/</guid>
 				<description></description>
 			</item>
 			<item>
