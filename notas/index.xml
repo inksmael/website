@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/notas/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Comienza el cole 4 años</title>
+				<link>http://localhost:1313/notas/comienza-cole-4/</link>
+				<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/notas/comienza-cole-4/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Buddy feriante</title>
+				<link>http://localhost:1313/notas/buddy-feriante/</link>
+				<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/notas/buddy-feriante/</guid>
+				<description>&lt;p&gt;Buddy feriante. Visto en una atracción de la feria de sanse.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/resources/img/misc/buddy-feriante-foto.png&#34; alt=&#34;El original Buddy Feriante&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Aladdin (Aladdín)</title>
+				<link>http://localhost:1313/notas/aladdin-aladdin/</link>
+				<pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/notas/aladdin-aladdin/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Timmy (La Patrulla Canina: La dino película)</title>
+				<link>http://localhost:1313/notas/patrulla-canina-timmy/</link>
+				<pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/notas/patrulla-canina-timmy/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Ruibarbo (La Patrulla Canina: La dino película)</title>
 				<link>http://localhost:1313/notas/patrulla-canina-ruibarbo/</link>
