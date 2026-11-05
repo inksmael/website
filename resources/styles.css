@@ -642,3 +642,191 @@ a:hover {
     color: var(--color-text);
     font-weight: bold;
 }
+
+/* ------------------------------------------------------------
+   Calculadora del panadero
+------------------------------------------------------------ */
+#calculadora-panadero {
+    margin: 1.5rem 0;
+}
+
+#calculadora-panadero h2 {
+    margin: 0 0 1rem;
+    font-size: 1.25rem;
+}
+
+#calculadora-panadero h3 {
+    font-size: 1rem;
+}
+
+#calculadora-panadero .pb-section {
+    margin-top: 1.5rem;
+}
+
+#calculadora-panadero .pb-soft {
+    padding: 1rem;
+    border: 1px solid var(--color-border);
+}
+
+#calculadora-panadero .pb-fields,
+#calculadora-panadero .pb-metrics {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+}
+
+#calculadora-panadero .pb-field {
+    min-width: 0;
+}
+
+#calculadora-panadero label,
+#calculadora-panadero .pb-label {
+    display: block;
+    margin-bottom: 0.35rem;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+#calculadora-panadero input,
+#calculadora-panadero select,
+#calculadora-panadero button {
+    min-height: 44px;
+    padding: 0.6rem;
+    border: 1px solid var(--color-border);
+    border-radius: 0;
+    background: var(--color-background);
+    color: var(--color-text);
+    font: inherit;
+}
+
+#calculadora-panadero input,
+#calculadora-panadero select {
+    width: 100%;
+    min-width: 0;
+}
+
+#calculadora-panadero :is(input, select, button):focus-visible {
+    outline: 2px solid var(--color-link-hover);
+    outline-offset: 3px;
+}
+
+#calculadora-panadero input[type="range"] {
+    padding: 0;
+    accent-color: var(--color-link);
+}
+
+#calculadora-panadero .pb-range-line {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+#calculadora-panadero .pb-range-line input {
+    flex: 1;
+}
+
+#calculadora-panadero .pb-hydration-control {
+    display: grid;
+    grid-template-columns: minmax(0, 7fr) minmax(0, 3fr);
+    align-items: center;
+    gap: 0.75rem;
+}
+
+#calculadora-panadero .pb-percentage {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+
+#calculadora-panadero output {
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+}
+
+#calculadora-panadero .pb-radio {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+#calculadora-panadero .pb-radio button {
+    flex: 1 1 auto;
+}
+
+#calculadora-panadero button {
+    cursor: pointer;
+}
+
+#calculadora-panadero button:hover:enabled {
+    border-color: var(--color-link-hover);
+}
+
+#calculadora-panadero button[aria-pressed="true"],
+#calculadora-panadero .pb-primary {
+    background: var(--color-text);
+    color: var(--color-background);
+}
+
+#calculadora-panadero button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+#calculadora-panadero .pb-muted {
+    font-size: 0.9rem;
+}
+
+#calculadora-panadero .pb-metrics {
+    margin-top: 1rem;
+}
+
+#calculadora-panadero .pb-metric {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--color-border);
+}
+
+#calculadora-panadero .pb-metric strong {
+    display: block;
+    margin-top: 0.25rem;
+    font-size: 1.4rem;
+}
+
+#calculadora-panadero table {
+    width: 100%;
+    margin-top: 1rem;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+}
+
+#calculadora-panadero th,
+#calculadora-panadero td {
+    padding: 0.65rem 0.25rem;
+    border-bottom: 1px solid var(--color-border);
+    text-align: left;
+    overflow-wrap: anywhere;
+}
+
+#calculadora-panadero :is(th, td):nth-child(n+2) {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+}
+
+#calculadora-panadero .pb-error {
+    color: var(--color-link-hover);
+    font-weight: bold;
+}
+
+#calculadora-panadero .pb-total {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#calculadora-panadero .pb-actions {
+    margin-top: 1rem;
+}
+
+@media (max-width: 520px) {
+    #calculadora-panadero .pb-fields {
+        grid-template-columns: minmax(0, 1fr);
+    }
+}
